@@ -1,0 +1,4 @@
+EchoDot 22 4.6
+EchoShow 49.99 4.4
+Fire7 29.99 3.9
+KindlePaperWhite 110 4.3
