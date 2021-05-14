@@ -2,22 +2,9 @@
 
 This repo stores all of my projects and labs for my past and currents college courses ! c:
 # Courses in Progress :books:
-## Operating Systems Programming | CSC 305/332  
-:black_small_square: [Lab 1](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/lab%201)    
-:black_small_square: [Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/lab%202)  
-:black_small_square: [Lab 3](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/lab%203)  
-:black_small_square: [Lab 4](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/lab%204)  
-:black_small_square: [Bankers Algorithm](https://github.com/giannagalard/CSC-Courses/blob/main/Operating%20Systems%20Programming/Bankers%20Algorithm.cpp)   
-:black_small_square: [Final Project](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/Final%20Project)  
-## Object-Oriented Software Design | CSC 330
-▪️ [Drunkard Walker](https://github.com/giannagalard/CSC-Courses/tree/main/Object-Oriented%20Software%20Design/Drunkard%20Walker)  
-:black_small_square: [Group Project](https://github.com/giannagalard/CSC-Courses/tree/main/Object-Oriented%20Software%20Design/Group%20Project)  
-:black_small_square: [Julian Calendar](https://github.com/giannagalard/CSC-Courses/blob/main/Object-Oriented%20Software%20Design/Julian%20Calendar.java)  
-:black_small_square: [Lotto Quick Picker](https://github.com/giannagalard/CSC-Courses/blob/main/Object-Oriented%20Software%20Design/Lotto%20Quick%20Picker.java)  
-:black_small_square: [Numeric Analyzer](https://github.com/giannagalard/CSC-Courses/blob/main/Object-Oriented%20Software%20Design/Numeric%20Analyzer.java)  
-:black_small_square: [Quick Picker](https://github.com/giannagalard/CSC-Courses/tree/main/Object-Oriented%20Software%20Design/Quick%20Picker)  
-:black_small_square: [Radio](https://github.com/giannagalard/CSC-Courses/blob/main/Object-Oriented%20Software%20Design/Radio.java)    
-:black_small_square: [TV](https://github.com/giannagalard/CSC-Courses/blob/main/Object-Oriented%20Software%20Design/TV.java)
+## Introduction to Database Systems | CSC 315
+## Digital Circuits | CSC 346/347
+## Machine Learning and Knowledge Discovery | CSC 412
 # Completed Courses :heavy_check_mark: 
 ## Intermediate Programming | CSC 211
 :black_small_square: [Clock](https://github.com/giannagalard/CSC-Courses/blob/main/Intermediate%20Programming/Clock.cpp)    
@@ -33,3 +20,19 @@ This repo stores all of my projects and labs for my past and currents college co
 ## Data Structures | CSC 326
 :black_small_square: [Garage Lab](https://github.com/giannagalard/CSC-Courses/tree/main/Data%20Structures/Garage%20Lab)  
 :black_small_square: [Sequence Lab](https://github.com/giannagalard/CSC-Courses/tree/main/Data%20Structures/Sequence%20Lab)
+## Object-Oriented Software Design | CSC 330
+▪️ [Drunkard Walker](https://github.com/giannagalard/CSC-Courses/tree/main/Object-Oriented%20Software%20Design/Drunkard%20Walker)  
+:black_small_square: [Group Project](https://github.com/giannagalard/CSC-Courses/tree/main/Object-Oriented%20Software%20Design/Group%20Project)  
+:black_small_square: [Julian Calendar](https://github.com/giannagalard/CSC-Courses/blob/main/Object-Oriented%20Software%20Design/Julian%20Calendar.java)  
+:black_small_square: [Lotto Quick Picker](https://github.com/giannagalard/CSC-Courses/blob/main/Object-Oriented%20Software%20Design/Lotto%20Quick%20Picker.java)  
+:black_small_square: [Numeric Analyzer](https://github.com/giannagalard/CSC-Courses/blob/main/Object-Oriented%20Software%20Design/Numeric%20Analyzer.java)  
+:black_small_square: [Quick Picker](https://github.com/giannagalard/CSC-Courses/tree/main/Object-Oriented%20Software%20Design/Quick%20Picker)  
+:black_small_square: [Radio](https://github.com/giannagalard/CSC-Courses/blob/main/Object-Oriented%20Software%20Design/Radio.java)    
+:black_small_square: [TV](https://github.com/giannagalard/CSC-Courses/blob/main/Object-Oriented%20Software%20Design/TV.java)
+## Operating Systems Programming | CSC 305/332  
+:black_small_square: [Lab 1](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/lab%201)    
+:black_small_square: [Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/lab%202)  
+:black_small_square: [Lab 3](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/lab%203)  
+:black_small_square: [Lab 4](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/lab%204)  
+:black_small_square: [Bankers Algorithm](https://github.com/giannagalard/CSC-Courses/blob/main/Operating%20Systems%20Programming/Bankers%20Algorithm.cpp)   
+:black_small_square: [Final Project](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/Final%20Project)  
