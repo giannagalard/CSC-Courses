@@ -2,6 +2,7 @@
 
 This repo stores all of my projects and labs for my past and currents college courses ! c:
 # Courses in Progress :books:
+## Introduction to Web Development and the Internet | CSC 225
 ## Introduction to Database Systems | CSC 315
 ## Digital Circuits | CSC 346/347
 ## Machine Learning and Knowledge Discovery | CSC 412
