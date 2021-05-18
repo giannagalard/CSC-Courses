@@ -32,7 +32,7 @@
 :white_small_square: [Garage Lab](https://github.com/giannagalard/CSC-Courses/tree/main/Data%20Structures/Garage%20Lab)  
 :white_small_square: [Sequence Lab](https://github.com/giannagalard/CSC-Courses/tree/main/Data%20Structures/Sequence%20Lab)
 ## 𝙾𝚋𝚓𝚎𝚌𝚝-𝙾𝚛𝚒𝚎𝚗𝚝𝚎𝚍 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚜𝚒𝚐𝚗 | 𝙲𝚂𝙲 𝟹𝟹𝟶
-▪️ [Drunkard Walker](https://github.com/giannagalard/CSC-Courses/tree/main/Object-Oriented%20Software%20Design/Drunkard%20Walker)  
+:white_small_square: [Drunkard Walker](https://github.com/giannagalard/CSC-Courses/tree/main/Object-Oriented%20Software%20Design/Drunkard%20Walker)  
 :white_small_square: [Group Project](https://github.com/giannagalard/CSC-Courses/tree/main/Object-Oriented%20Software%20Design/Group%20Project)  
 :white_small_square: [Julian Calendar](https://github.com/giannagalard/CSC-Courses/blob/main/Object-Oriented%20Software%20Design/Julian%20Calendar.java)  
 :white_small_square: [Lotto Quick Picker](https://github.com/giannagalard/CSC-Courses/blob/main/Object-Oriented%20Software%20Design/Lotto%20Quick%20Picker.java)  
