@@ -45,5 +45,6 @@
 :white_small_square: [Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/lab%202)  
 :white_small_square: [Lab 3](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/lab%203)  
 :white_small_square: [Lab 4](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/lab%204)  
+:white_small_square: [Lab 5](https://github.com/giannagalard/CSC-Courses/blob/main/Operating%20Systems%20Programming/lab%205.cpp)   
 :white_small_square: [Bankers Algorithm](https://github.com/giannagalard/CSC-Courses/blob/main/Operating%20Systems%20Programming/Bankers%20Algorithm.cpp)   
 :white_small_square: [Final Project](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/Final%20Project)  
