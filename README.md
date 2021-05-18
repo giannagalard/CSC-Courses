@@ -16,7 +16,7 @@
 ## 𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝙲𝚒𝚛𝚌𝚞𝚒𝚝𝚜 | 𝙲𝚂𝙲 𝟹𝟺𝟼/𝟹𝟺𝟽
 ## 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝙳𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝚢 | 𝙲𝚂𝙲 𝟺𝟷𝟸
 # 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 🗸
-## 𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟸𝟷𝟷
+## <img src= https://img.shields.io/badge/c%2B%2B-%20%20-ff69b4>   𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟸𝟷𝟷  
 :white_small_square: [Clock](https://github.com/giannagalard/CSC-Courses/blob/main/Intermediate%20Programming/Clock.cpp)    
 :white_small_square: [Gifts Lab](https://github.com/giannagalard/CSC-Courses/tree/main/Intermediate%20Programming/Gifts%20Lab)  
 :white_small_square: [Grades Lab](https://github.com/giannagalard/CSC-Courses/tree/main/Intermediate%20Programming/Grades%20Lab)  
