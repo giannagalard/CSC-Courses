@@ -25,7 +25,7 @@
 :white_small_square: [Hexadecimal Conversion](https://github.com/giannagalard/CSC-Courses/tree/main/Intermediate%20Programming/hexadecimal%20conversion)    
 :white_small_square: [Multiplication Table](https://github.com/giannagalard/CSC-Courses/blob/main/Intermediate%20Programming/Multiplication%20Table.cpp)    
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf>   𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛𝚜, 𝙽𝚎𝚝𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚊𝚗𝚍 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢 | 𝙲𝚂𝙲 𝟸𝟸𝟶
-:white_small_square: [Add Variables](https://github.com/giannagalard/CSC-Courses/commit/c2659703b004187c41d3ecafdc22f398501b20f6)  
+:white_small_square: [Add Variables](https://github.com/giannagalard/CSC-Courses/blob/main/Computers%2C%20Networking%20and%20Security/AddVariables.asm)  
 :white_small_square: [Group Work Calculator](https://github.com/giannagalard/CSC-Courses/blob/main/Computers%2C%20Networking%20and%20Security/GroupWorkCalc.asm)  
 :white_small_square: [Test Fill Array](https://github.com/giannagalard/CSC-Courses/blob/main/Computers%2C%20Networking%20and%20Security/TestFillArray.asm)  
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf>   𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 | 𝙲𝚂𝙲 𝟹𝟸𝟼
@@ -45,5 +45,6 @@
 :white_small_square: [Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/lab%202)  
 :white_small_square: [Lab 3](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/lab%203)  
 :white_small_square: [Lab 4](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/lab%204)  
+:white_small_square: [Lab 5](https://github.com/giannagalard/CSC-Courses/blob/main/Operating%20Systems%20Programming/lab%205.cpp)   
 :white_small_square: [Bankers Algorithm](https://github.com/giannagalard/CSC-Courses/blob/main/Operating%20Systems%20Programming/Bankers%20Algorithm.cpp)   
 :white_small_square: [Final Project](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/Final%20Project)  
