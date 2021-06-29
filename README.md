@@ -15,6 +15,7 @@
 ## ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf>   𝙸𝚗𝚝𝚎𝚛𝚟𝚒𝚎𝚠 𝙿𝚛𝚎𝚙 𝙲𝚘𝚞𝚛𝚜𝚎 | 𝙲𝚂𝙲 𝟻𝟿𝟷
 :white_small_square: [Maximum Subarray](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Maximum%20Subarray)  
 :white_small_square: [Minimum Operations to Make the Array Increasing](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Min%20Operations%20to%20Make%20the%20Array%20Increasing)  
+:white_small_square: [Two Sum](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Two%20Sum)  
 # 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 🗸
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf>   𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟸𝟷𝟷  
 :white_small_square: [Clock](https://github.com/giannagalard/CSC-Courses/blob/main/Intermediate%20Programming/Clock.cpp)    
