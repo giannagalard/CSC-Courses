@@ -36,4 +36,5 @@ int main() {
 		write(fChild[1], tempStr2, 29);
 		close(fChild[1]);
 	     }
+
 }
