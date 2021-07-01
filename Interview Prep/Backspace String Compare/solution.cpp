@@ -1,4 +1,5 @@
 // time and space = O(s+t)
+
 class Solution {
 public:
     bool backspaceCompare(string s, string t) {
