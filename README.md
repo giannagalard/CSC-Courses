@@ -16,6 +16,7 @@
 :white_small_square: [Backspace String Compare](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Backspace%20String%20Compare)  
 :white_small_square: [Best Time to Buy and Sell Stock](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Best%20Time%20to%20Buy%20and%20Sell%20Stock)    
 :white_small_square: [Container with Most Water](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Container%20With%20Most%20Water)  
+:white_small_square: [Delete Duplicate-Value Nodes from a Sorted Linked List](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Delete%20Duplicate-Value%20Nodes%20from%20a%20Sorted%20Linked%20List)  
 :white_small_square: [Maximum Subarray](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Maximum%20Subarray)  
 :white_small_square: [Minimum Operations to Make the Array Increasing](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Min%20Operations%20to%20Make%20the%20Array%20Increasing)   
 :white_small_square: [Move Zeroes](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Move%20Zeroes)  
