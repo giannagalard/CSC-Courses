@@ -20,6 +20,7 @@
 :white_small_square: [Delete Duplicate-Value Nodes from a Sorted Linked List](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Delete%20Duplicate-Value%20Nodes%20from%20a%20Sorted%20Linked%20List)     
 :white_small_square: [Linked List Cycle](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Linked%20List%20Cycle)  
 :white_small_square: [Maximum Subarray](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Maximum%20Subarray)  
+:white_small_square: [Merge Two Sorted Lists](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Merge%20Two%20Sorted%20Lists)  
 :white_small_square: [Minimum Operations to Make the Array Increasing](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Min%20Operations%20to%20Make%20the%20Array%20Increasing)   
 :white_small_square: [Move Zeroes](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Move%20Zeroes)  
 :white_small_square: [Two Sum](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Two%20Sum)    
