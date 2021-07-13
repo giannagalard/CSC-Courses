@@ -9,6 +9,7 @@
  * };
  */
 // time complexity O(n)
+// space complexity O(1) -- constant
 class Solution {
     public:
         int getDecimalValue(ListNode * head) {
