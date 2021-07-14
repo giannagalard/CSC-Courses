@@ -8,8 +8,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-// time efficiency O(n/2)
-// space efficiency O(1)
+// time complexity O(n/2)
+// space complexity O(1)
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
