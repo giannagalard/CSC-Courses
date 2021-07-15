@@ -25,6 +25,7 @@
 :white_small_square: [Minimum Operations to Make the Array Increasing](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Min%20Operations%20to%20Make%20the%20Array%20Increasing)   
 :white_small_square: [Move Zeroes](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Move%20Zeroes)  
 :white_small_square: [Palindrome Linked List](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Palindrome%20Linked%20List)  
+:white_small_square: [Reverse Linked List II](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Reverse%20Linked%20List%20II)  
 :white_small_square: [Two Sum](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Two%20Sum)    
 :white_small_square: [Valid Anagram](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Valid%20Anagram)
 # 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 🗸
