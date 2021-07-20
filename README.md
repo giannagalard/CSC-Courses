@@ -30,6 +30,7 @@
 :white_small_square: [Min Stack](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Min%20Stack)  
 :white_small_square: [Move Zeroes](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Move%20Zeroes)  
 :white_small_square: [Palindrome Linked List](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Palindrome%20Linked%20List)  
+:white_small_square: [Range Sum of BST](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Range%20Sum%20of%20BST)  
 :white_small_square: [Reverse Linked List II](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Reverse%20Linked%20List%20II)   
 :white_small_square: [Reverse String](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Reverse%20String)  
 :white_small_square: [Search in a Binary Search Tree](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Search%20in%20a%20Binary%20Search%20Tree)  
