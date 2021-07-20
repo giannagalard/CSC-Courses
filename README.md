@@ -17,6 +17,7 @@
 :white_small_square: [Balanced Binary Tree](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Balanced%20Binary%20Tree)  
 :white_small_square: [Best Time to Buy and Sell Stock](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Best%20Time%20to%20Buy%20and%20Sell%20Stock)    
 :white_small_square: [Binary Tree Inorder Traversal](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Binary%20Tree%20Inorder%20Traversal)  
+:white_small_square: [Binary Tree Preorder Traversal](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Binary%20Tree%20Preorder%20Traversal)  
 :white_small_square: [Container with Most Water](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Container%20With%20Most%20Water)    
 :white_small_square: [Convert Binary Number in a Linked List to Integer](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)  
 :white_small_square: [Delete Duplicate-Value Nodes from a Sorted Linked List](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Delete%20Duplicate-Value%20Nodes%20from%20a%20Sorted%20Linked%20List)     
