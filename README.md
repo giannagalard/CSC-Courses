@@ -14,6 +14,7 @@
 # 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 𝗶𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 ⌨️
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf>   𝙸𝚗𝚝𝚎𝚛𝚟𝚒𝚎𝚠 𝙿𝚛𝚎𝚙 𝙲𝚘𝚞𝚛𝚜𝚎 | 𝙲𝚂𝙲 𝟻𝟿𝟷
 :white_small_square: [Backspace String Compare](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Backspace%20String%20Compare)  
+:white_small_square: [Balanced Binary Tree](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Balanced%20Binary%20Tree)  
 :white_small_square: [Best Time to Buy and Sell Stock](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Best%20Time%20to%20Buy%20and%20Sell%20Stock)    
 :white_small_square: [Container with Most Water](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Container%20With%20Most%20Water)    
 :white_small_square: [Convert Binary Number in a Linked List to Integer](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)  
