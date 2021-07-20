@@ -19,6 +19,7 @@
 :white_small_square: [Convert Binary Number in a Linked List to Integer](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)  
 :white_small_square: [Delete Duplicate-Value Nodes from a Sorted Linked List](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Delete%20Duplicate-Value%20Nodes%20from%20a%20Sorted%20Linked%20List)     
 :white_small_square: [Linked List Cycle](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Linked%20List%20Cycle)  
+:white_small_square: [Maximum Depth of Binary Tree](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Max%20Depth%20of%20Binary%20Tree)  
 :white_small_square: [Maximum Subarray](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Maximum%20Subarray)  
 :white_small_square: [Merge Two Sorted Lists](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Merge%20Two%20Sorted%20Lists)    
 :white_small_square: [Middle of the Linked List](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Middle%20of%20the%20Linked%20List)  
