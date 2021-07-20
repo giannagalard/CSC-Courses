@@ -21,6 +21,7 @@
 :white_small_square: [Container with Most Water](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Container%20With%20Most%20Water)    
 :white_small_square: [Convert Binary Number in a Linked List to Integer](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)  
 :white_small_square: [Delete Duplicate-Value Nodes from a Sorted Linked List](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Delete%20Duplicate-Value%20Nodes%20from%20a%20Sorted%20Linked%20List)     
+:white_small_square: [Implement Queue using Stacks](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Implement%20Queue%20using%20Stacks)  
 :white_small_square: [Linked List Cycle](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Linked%20List%20Cycle)  
 :white_small_square: [Lowest Common Ancestor of Binary Search Tree](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)  
 :white_small_square: [Maximum Depth of Binary Tree](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Max%20Depth%20of%20Binary%20Tree)  
