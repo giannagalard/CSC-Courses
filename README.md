@@ -31,6 +31,7 @@
 :white_small_square: [Move Zeroes](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Move%20Zeroes)  
 :white_small_square: [Palindrome Linked List](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Palindrome%20Linked%20List)  
 :white_small_square: [Reverse Linked List II](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Reverse%20Linked%20List%20II)   
+:white_small_square: [Reverse String](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Reverse%20String)  
 :white_small_square: [Sort List](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Sort%20List)   
 :white_small_square: [Two Sum](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Two%20Sum)    
 :white_small_square: [Valid Anagram](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Valid%20Anagram)
