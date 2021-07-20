@@ -31,10 +31,10 @@
 :white_small_square: [Move Zeroes](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Move%20Zeroes)  
 :white_small_square: [Palindrome Linked List](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Palindrome%20Linked%20List)  
 :white_small_square: [Reverse Linked List II](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Reverse%20Linked%20List%20II)   
-:white_small_square: [Reverse String](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Reverse%20String)  
 :white_small_square: [Sort List](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Sort%20List)   
 :white_small_square: [Two Sum](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Two%20Sum)    
-:white_small_square: [Valid Anagram](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Valid%20Anagram)
+:white_small_square: [Valid Anagram](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Valid%20Anagram)  
+:white_small_square: [Valid Parenthesis](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Valid%20Parenthesis)  
 # 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 🗸
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf>   𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟸𝟷𝟷  
 :white_small_square: [Clock](https://github.com/giannagalard/CSC-Courses/blob/main/Intermediate%20Programming/Clock.cpp)    
