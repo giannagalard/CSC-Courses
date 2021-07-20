@@ -27,6 +27,7 @@
 :white_small_square: [Merge Two Sorted Lists](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Merge%20Two%20Sorted%20Lists)    
 :white_small_square: [Middle of the Linked List](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Middle%20of%20the%20Linked%20List)  
 :white_small_square: [Minimum Operations to Make the Array Increasing](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Min%20Operations%20to%20Make%20the%20Array%20Increasing)   
+:white_small_square: [Min Stack](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Min%20Stack)  
 :white_small_square: [Move Zeroes](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Move%20Zeroes)  
 :white_small_square: [Palindrome Linked List](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Palindrome%20Linked%20List)  
 :white_small_square: [Reverse Linked List II](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Reverse%20Linked%20List%20II)   
