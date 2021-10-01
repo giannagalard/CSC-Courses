@@ -12,7 +12,7 @@
 ```
 
 # 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 𝗶𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 ⌨️
-## <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white> 𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 | 𝙲𝚂𝙲𝟹𝟷𝟻  
+## <img src= https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white>   𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 | 𝙲𝚂𝙲𝟹𝟷𝟻  
 :white_small_square: [Lab 1](https://github.com/giannagalard/CSC-Courses/blob/main/Introduction%20to%20Database%20Systems/lab1.sql)  
 # 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 🗸
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf>   𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟸𝟷𝟷  
