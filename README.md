@@ -16,6 +16,7 @@
 :white_small_square: [Lab 0](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%200)  
 :white_small_square: [Lab 1 - Logic Gates](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%201)  
 :white_small_square: [Lab 2 - DeMorgans Laws](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%202)  
+:white_small_square: [Lab 3 - Binary Adder and Subtractor](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%203)  
 ## <img src= https://img.shields.io/badge/mysql-%20-9cf>   𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 | 𝙲𝚂𝙲 𝟹𝟷𝟻  
 :white_small_square: [Lab 1](https://github.com/giannagalard/CSC-Courses/blob/main/Introduction%20to%20Database%20Systems/lab1.sql)  
 # 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 🗸
