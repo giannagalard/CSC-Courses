@@ -160,8 +160,3 @@ DROP TABLE airport;
 DROP TABLE city;
 DROP TABLE plane;
 DROP DATABASE airtraffic;
-
-
-
-
-
