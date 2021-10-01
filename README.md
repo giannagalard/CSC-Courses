@@ -13,7 +13,10 @@
 
 # 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 𝗶𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 ⌨️
 ## <img src = https://img.shields.io/badge/verilog-%20-9cf>   𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝙲𝚒𝚛𝚌𝚞𝚒𝚝𝚜 | 𝙲𝚂𝙲 𝟹𝟺𝟼/𝟹𝟺𝟽
-## <img src= https://img.shields.io/badge/mysql-%20-9cf>   𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 | 𝙲𝚂𝙲𝟹𝟷𝟻  
+:white_small_square: [Lab 0](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%200)  
+:white_small_square: [Lab 1](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%201)  
+:white_small_square: [Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%202)  
+## <img src= https://img.shields.io/badge/mysql-%20-9cf>   𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 | 𝙲𝚂𝙲 𝟹𝟷𝟻  
 :white_small_square: [Lab 1](https://github.com/giannagalard/CSC-Courses/blob/main/Introduction%20to%20Database%20Systems/lab1.sql)  
 # 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 🗸
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf>   𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟸𝟷𝟷  
