@@ -13,7 +13,6 @@
 
 # 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 𝗶𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 ⌨️
 ## <img src = https://img.shields.io/badge/verilog-%20-9cf>   𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝙲𝚒𝚛𝚌𝚞𝚒𝚝𝚜 | 𝙲𝚂𝙲 𝟹𝟺𝟼/𝟹𝟺𝟽
-:white_small_square: [Lab 0](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%200)  
 :white_small_square: [Lab 1 - Logic Gates](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%201)  
 :white_small_square: [Lab 2 - DeMorgans Laws](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%202)  
 :white_small_square: [Lab 3 - Binary Adder and Subtractor](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%203)  
