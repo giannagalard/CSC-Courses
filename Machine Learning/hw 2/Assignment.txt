@@ -1,0 +1,16 @@
+Assignment 2 Instructions
+
+ Look at the Portland housing data in BB.  Write a python program that will:
+
+ 
+
+read the data
+plot the data as a scatter plot
+Calculate and plot the linear regression for this data
+Calculate the mean squared error for the Portland housing data
+Calculate the price of a:
+1,200 square foot house
+3,500 square foot house.
+ Hand in a document that contains your code and the output from your program.
+
+ Make sure your program follows good software engineering practices.  Remember to document your code.
