@@ -16,8 +16,8 @@
 :white_small_square: [Hw 1 - Logical and physical data independence](https://github.com/giannagalard/CSC-Courses/blob/main/Introduction%20to%20Database%20Systems/homeworks/hw%201.pdf)  
 :white_small_square: [Hw 2 - ER Diagram and Database Design](https://github.com/giannagalard/CSC-Courses/blob/main/Introduction%20to%20Database%20Systems/homeworks/hw%202.pdf)  
 :white_small_square: [Hw 3 - SQL Statements for Hw2](https://github.com/giannagalard/CSC-Courses/blob/main/Introduction%20to%20Database%20Systems/homeworks/hw%203.pdf)  
-:white_small_square: [Lab 1](https://github.com/giannagalard/CSC-Courses/blob/main/Introduction%20to%20Database%20Systems/labs/lab1.sql)  
-:white_small_square: [Lab 2](https://github.com/giannagalard/CSC-Courses/blob/main/Introduction%20to%20Database%20Systems/labs/lab2.sql)  
+:white_small_square: [Lab 1 - Database airtraffic](https://github.com/giannagalard/CSC-Courses/blob/main/Introduction%20to%20Database%20Systems/labs/lab1.sql)  
+:white_small_square: [Lab 2 - Database CSC315Lab2](https://github.com/giannagalard/CSC-Courses/blob/main/Introduction%20to%20Database%20Systems/labs/lab2.sql)  
 ## <img src = https://img.shields.io/badge/verilog-%20-9cf>   𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝙲𝚒𝚛𝚌𝚞𝚒𝚝𝚜 | 𝙲𝚂𝙲 𝟹𝟺𝟼/𝟹𝟺𝟽
 :white_small_square: [346 Hw's](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/346%20homeworks)  
 :white_small_square: [Lab 1 - Logic Gates](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%201)  
