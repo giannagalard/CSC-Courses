@@ -30,24 +30,27 @@ INSERT INTO Suppliers VALUES(4, 'Acme Widget Suppliers', '924 Elmwood Road');
 1 row(s) affected	0.015 sec
 1 row(s) affected	0.000 sec
 1 row(s) affected	0.000 sec
-1 row(s) affected	0.000 sec */
+1 row(s) affected	0.000 sec
+ */
+ 
 CREATE TABLE Parts (
 pid int,
 pname varchar(100),
 color varchar(100),
 PRIMARY KEY (pid)
 );
-INSERT INTO Parts VALUES(1, 'Keyboard', 'Pink');
+INSERT INTO Parts VALUES(1, 'Keyboard', 'Green');
 INSERT INTO Parts VALUES(2, 'RAM', 'Red');
 INSERT INTO Parts VALUES(3, 'SSD', 'Green');
-INSERT INTO Parts VALUES(4, 'Mouse Pad', 'Lilac');
-INSERT INTO Parts VALUES(5, 'Head Set', 'White');
+INSERT INTO Parts VALUES(4, 'Mouse Pad', 'Red');
+INSERT INTO Parts VALUES(5, 'Head Set', 'Red');
 /* OUTPUT
-0.016 sec
-0.000 sec
-0.000 sec
 1 row(s) affected	0.000 sec
-1 row(s) affected	0.000 sec */
+1 row(s) affected	0.000 sec
+1 row(s) affected	0.000 sec
+1 row(s) affected	0.000 sec
+1 row(s) affected	0.015 sec */
+
 CREATE TABLE Catalog (
 sid int,
 pid int,
@@ -60,10 +63,12 @@ INSERT INTO Catalog VALUES(2, 2, 200);
 INSERT INTO Catalog VALUES(3, 3, 70);
 INSERT INTO Catalog VALUES(4, 4, 20);
 INSERT INTO Catalog VALUES(2, 5, 175);
+INSERT INTO Catalog VALUES(2, 1, 235);
 /* OUTPUT
 1 row(s) affected	0.000 sec
 1 row(s) affected	0.000 sec
 1 row(s) affected	0.000 sec
+1 row(s) affected	0.015 sec
 1 row(s) affected	0.000 sec
 1 row(s) affected	0.000 sec */
 
@@ -73,22 +78,22 @@ SELECT DISTINCT P.pname
 FROM parts P, Catalog C 
 WHERE P.pid = C.pid;
 /* OUTPUT
-+----------+
-| pname    |
-+----------+
-| Keyboard |
-| RAM      |
-| SSD      |
-| Mouse Pad|
-| Head Set |
-+----------+
++-----------+
+| pname     |
++-----------+
+| Keyboard  |
+| RAM       |
+| SSD       |
+| Mouse Pad |
+| Head Set  |
++-----------+
 5 row(s) returned	0.000 sec / 0.000 sec */
 
 -- Find the snames of suppliers who supply every part.
 SELECT sname FROM Suppliers;
 /* OUTPUT
 +-----------------------+
-| pname 			    |
+| sname 			    |
 +-----------------------+
 | Razer  			    |
 | HyperX   				|
@@ -98,23 +103,18 @@ SELECT sname FROM Suppliers;
 4 row(s) returned	0.000 sec / 0.000 sec */
 
 -- Find the snames of suppliers who supply every red part.
-SELECT S.sname
-FROM Suppliers S, parts P, catalog C 
-WHERE S.sid=C.sid
-and C.pid=P.pid
-and P.color='red'
-GROUP BY S.sname
-HAVING COUNT(DISTINCT(C.pid)) >= (SELECT COUNT(*)
-	FROM Parts P
-	WHERE P.color = 'red'
-);
+SELECT Suppliers.sname 
+FROM ((Suppliers inner join Catalog on Suppliers.sid=Catalog.sid) inner join Parts on Catalog.pid=Parts.pid) 
+WHERE Parts.color="red";
 /* OUTPUT
-+---------+
-| sname	  |
-+---------+
-| HyperX  |
-+---------+
-1 row(s) returned	0.000 sec / 0.000 sec */
++-----------------------+
+| sname	                |
++-----------------------+
+| HyperX                |
+| Acme Widget Suppliers |
+| HyperX                |
++-----------------------+
+3 row(s) returned	0.000 sec / 0.000 sec */
 
 -- Find the pnames of parts supplied by Acme Widget Suppliers and no one else.
 SELECT P.pname 
@@ -139,12 +139,12 @@ SELECT S.sname Supplier,
 FROM Parts P
 INNER JOIN Catalog C ON P.pid=C.pid
 INNER JOIN Suppliers S ON S.sid=C.sid
-GROUP BY C.pid
+GROUP BY C.pid;
 /* OUTPUT
 +-----------------------+-------------+--------------+-----------+-----+
 | Supplier              | averageCost | supplierCost | pname     | pid |
 +-----------------------+-------------+--------------+-----------+-----+
-| Razer                 | 150         | 150          | Keyboard  | 1   |
+| Razer                 | 192.5       | 235          | Keyboard  | 1   |
 | HyperX                | 200         | 200          | RAM       | 2   |
 | HyperX                | 175         | 175          | Head Set  | 5   |
 | Corsair               | 70          | 70           | SSD       | 3   |
@@ -153,12 +153,106 @@ GROUP BY C.pid
 5 row(s) returned	0.000 sec / 0.000 sec */
 
 -- For each part, ﬁnd the sname of the supplier who charges the most for that part.
-SELECT S.sname, P.pname AS 
+SELECT S.sname as Supplier, P.pname as pname, max(cost)
+FROM Suppliers S
+INNER JOIN Catalog C ON S.sid = C.sid
+INNER JOIN Parts P ON P.pid=C.pid
+GROUP BY S.sname;
+/* OUTPUT
++-----------------------+-------------+-----------+
+| Supplier              | pname       | max(cost) |
++-----------------------+-------------+-----------+
+| Razer                 | Keyboard    | 235       |
+| HyperX                | RAM         | 200       |
+| Corsair               | SSD         | 70        |
+| Acme Widget Suppliers | Mouse Pad   | 20        |
++-----------------------+-------------+-----------+
+4 row(s) returned	0.000 sec / 0.000 sec */
 
+-- Find the sids of suppliers who supply only red parts.
+SELECT DISTINCT C.sid AS sid
+FROM Catalog C
+WHERE NOT EXISTS ( 
+	SELECT *
+	FROM Parts P
+	WHERE P.pid = C.pid AND P.color <> "Red" );
+/* OUTPUT
++-----+
+| sid |
++-----+
+| 2   |
+| 4   |
++-----+
+2 row(s) returned	0.000 sec / 0.000 sec */
 
+-- Find the sids of suppliers who supply a red part and a green part.
+SELECT DISTINCT C.sid
+FROM Catalog C, Parts P
+WHERE C.pid = P.pid AND P.color = "Red";
+SELECT DISTINCT C1.sid
+FROM Catalog C1, Parts P1
+WHERE C1.pid = P1.pid AND P1.color = "Green";
+/* OUTPUT
++-----+      +-----+ 
+| sid |		 | sid |
++-----+      +-----+
+| 1   |		 | 2   |
+| 2   |		 | 4   |
+| 3   |		 +-----+
++-----+
+3 row(s) returned	0.000 sec / 0.000 sec
+2 row(s) returned	0.000 sec / 0.000 sec */
 
+-- Find the sids of suppliers who supply a red part or a green part.
+SELECT DISTINCT C.sid
+FROM Catalog C, Parts P
+WHERE C.pid = P.pid AND P.color = "Red"
+UNION
+SELECT DISTINCT C1.sid
+FROM Catalog C1, Parts P1
+WHERE C1.pid = P1.pid AND P1.color = "Green";
+/* OUTPUT
++-----+
+| sid |
++-----+
+| 2   |
+| 4   |
+| 1   |
+| 3   |
++-----+
+4 row(s) returned	0.000 sec / 0.000 sec */
 
+-- For every supplier that only supplies green parts, print the name of the supplier and the total number of parts that she supplies.
+SELECT COUNT(DISTINCT(C.pid)) NumParts, S.sname, C.pid, P.pname
+FROM Catalog C
+INNER JOIN Parts P ON C.pid=P.pid
+INNER JOIN Suppliers S ON C.sid=S.sid
+WHERE P.color = 'green';
+/* OUTPUT
++----------+-------+-----+----------+
+| NumParts | sname | pid | pname    |
++----------+-------+-----+----------+
+| 2        | Razer | 1   | Keyboard |
++----------+-------+-----+----------+
+1 row(s) returned	0.000 sec / 0.000 sec */
 
+-- For every supplier that supplies a green part and a red part, print the name and price of the most expensive part that she supplies.
+SELECT S.sname AS sname, MAX(C.cost) as most$$$
+FROM Suppliers S, Parts P, Catalog C
+WHERE P.pid = C.pid AND C.sid = S.sid;
+/* OUTPUT
++-------+---------+
+| sname | most$$$ |
++-------+---------+
+| Razer | 235     |
++-------+---------+
+1 row(s) returned	0.000 sec / 0.000 sec */
+
+-- when complete
+DROP TABLE Catalog;
+DROP TABLE Suppliers;
+DROP TABLE Parts;
+DROP DATABASE CSC315Lab2;
 
 
 
