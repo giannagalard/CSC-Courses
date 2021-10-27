@@ -30,8 +30,7 @@ INSERT INTO Suppliers VALUES(4, 'Acme Widget Suppliers', '924 Elmwood Road');
 1 row(s) affected	0.015 sec
 1 row(s) affected	0.000 sec
 1 row(s) affected	0.000 sec
-1 row(s) affected	0.000 sec
- */
+1 row(s) affected	0.000 sec */
  
 CREATE TABLE Parts (
 pid int,
@@ -93,11 +92,11 @@ WHERE P.pid = C.pid;
 SELECT sname FROM Suppliers;
 /* OUTPUT
 +-----------------------+
-| sname 			    |
+| sname 	        |
 +-----------------------+
-| Razer  			    |
-| HyperX   				|
-| Corsair  				|
+| Razer  	   	|
+| HyperX   		|
+| Corsair  		|
 | Acme Widget Suppliers |
 +-----------------------+
 4 row(s) returned	0.000 sec / 0.000 sec */
@@ -194,11 +193,11 @@ FROM Catalog C1, Parts P1
 WHERE C1.pid = P1.pid AND P1.color = "Green";
 /* OUTPUT
 +-----+      +-----+ 
-| sid |		 | sid |
+| sid |      | sid |
 +-----+      +-----+
-| 1   |		 | 2   |
-| 2   |		 | 4   |
-| 3   |		 +-----+
+| 1   |      | 2   |
+| 2   |      | 4   |
+| 3   |	     +-----+
 +-----+
 3 row(s) returned	0.000 sec / 0.000 sec
 2 row(s) returned	0.000 sec / 0.000 sec */
