@@ -26,7 +26,9 @@
 :white_small_square: [Lab 3 - Binary Adder and Subtractor](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%203)  
 :white_small_square: [Lab 4 - Parity Generator and Checker](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%204)  
 :white_small_square: [Lab 5 - Single NAND-NOR chip](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%205)  
-:white_small_square: [Lab 6 - 2bit Adder and Subtractor](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%206)  
+:white_small_square: [Lab 6 - 2bit Adder and Subtractor](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%206) 
+:white_small_square: [Lab 7 - Introduction to Verilog](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%207)  
+:white_small_square: [Lab 8 - 9's Complementer](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%208)  
 ## <img src = https://img.shields.io/badge/python-%20-9cf>   𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟺𝟷𝟸
 :white_small_square: [Hw 1 - Num to Add](https://github.com/giannagalard/CSC-Courses/tree/main/Machine%20Learning/hw%201)  
 :white_small_square: [Hw 2 - Portland Housing Data](https://github.com/giannagalard/CSC-Courses/tree/main/Machine%20Learning/hw%202)  
