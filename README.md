@@ -15,6 +15,7 @@
 ## <img src= https://img.shields.io/badge/mysql-%20-9cf>   𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 | 𝙲𝚂𝙲 𝟹𝟷𝟻  
 :white_small_square: [Lab 1 - Database Airtraffic](https://github.com/giannagalard/CSC-Courses/blob/main/Introduction%20to%20Database%20Systems/labs/lab1.sql)  
 :white_small_square: [Lab 2 - Database CSC315Lab2](https://github.com/giannagalard/CSC-Courses/blob/main/Introduction%20to%20Database%20Systems/labs/lab2.sql)  
+:white_small_square: [Lab 3 - Query Optimization](https://github.com/giannagalard/CSC-Courses/tree/main/Introduction%20to%20Database%20Systems/labs/lab%203)  
 :white_small_square: [Hw 1 - Logical and Physical Data Independence](https://github.com/giannagalard/CSC-Courses/blob/main/Introduction%20to%20Database%20Systems/homeworks/hw%201.pdf)  
 :white_small_square: [Hw 2 - ER Diagram and Database Design](https://github.com/giannagalard/CSC-Courses/blob/main/Introduction%20to%20Database%20Systems/homeworks/hw%202.pdf)  
 :white_small_square: [Hw 3 - SQL Statements for Hw2](https://github.com/giannagalard/CSC-Courses/blob/main/Introduction%20to%20Database%20Systems/homeworks/hw%203.pdf)  
