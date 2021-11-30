@@ -38,6 +38,7 @@
 :white_small_square: [Hw 1 - Num to Add](https://github.com/giannagalard/CSC-Courses/tree/main/Machine%20Learning/hw%201)  
 :white_small_square: [Hw 2 - Portland Housing Data](https://github.com/giannagalard/CSC-Courses/tree/main/Machine%20Learning/hw%202)  
 :white_small_square: [Hw 3 - Midterm Review](https://github.com/giannagalard/CSC-Courses/tree/main/Machine%20Learning/hw%203)  
+:white_small_square: [Group Project - Data Cleaning](https://github.com/giannagalard/CSC-Courses/tree/main/Machine%20Learning/data-cleaning)  
 # 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 🗸 
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf>   𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟸𝟷𝟷  
 :white_small_square: [Clock](https://github.com/giannagalard/CSC-Courses/blob/main/Intermediate%20Programming/Clock.cpp)    
