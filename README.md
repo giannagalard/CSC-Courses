@@ -16,7 +16,7 @@
 :white_small_square: [Lab 1 - Database Airtraffic](https://github.com/giannagalard/CSC-Courses/blob/main/Database%20Systems/labs/lab1.sql)  
 :white_small_square: [Lab 2 - Database CSC315Lab2](https://github.com/giannagalard/CSC-Courses/blob/main/Database%20Systems/labs/lab2.sql)  
 :white_small_square: [Lab 3 - Query Optimization](https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/labs/lab%203)  
-:white_small_square: [Lab 4 - Inserting Data with PHP]((https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/labs/lab%204)   
+:white_small_square: [Lab 4 - Inserting Data with PHP](https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/labs/lab%204)   
 :white_small_square: [Hw 1 - Logical and Physical Data Independence](https://github.com/giannagalard/CSC-Courses/blob/main/Database%20Systems/homeworks/hw%201.pdf)  
 :white_small_square: [Hw 2 - ER Diagram and Database Design](https://github.com/giannagalard/CSC-Courses/blob/main/Database%20Systems/homeworks/hw%202.pdf)  
 :white_small_square: [Hw 3 - SQL Statements for Hw2](https://github.com/giannagalard/CSC-Courses/blob/main/Database%20Systems/homeworks/hw%203.pdf)  
