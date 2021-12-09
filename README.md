@@ -16,7 +16,8 @@
 :white_small_square: [Lab 1 - Database Airtraffic](https://github.com/giannagalard/CSC-Courses/blob/main/Database%20Systems/lab1.sql)  
 :white_small_square: [Lab 2 - Database CSC315Lab2](https://github.com/giannagalard/CSC-Courses/blob/main/Database%20Systems/lab2.sql)  
 :white_small_square: [Lab 3 - Query Optimization](https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/lab%203)  
-:white_small_square: [Lab 4 - Inserting Data with PHP](https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/lab%204)   
+:white_small_square: [Lab 4 - Inserting Data with PHP](https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/lab%204)    
+:white_small_square: [Flubber](https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/Flubber)   
 ## <img src = https://img.shields.io/badge/verilog-%20-9cf>   𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝙲𝚒𝚛𝚌𝚞𝚒𝚝𝚜 | 𝙲𝚂𝙲 𝟹𝟺𝟼/𝟹𝟺𝟽
 :white_small_square: [346 Hw's](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/346%20homeworks)  
 :white_small_square: [Lab 1 - Logic Gates](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%201)  
@@ -29,7 +30,8 @@
 :white_small_square: [Lab 8 - 9's Complementer](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%208)  
 :white_small_square: [Lab 9 - ALU and Seven Segment Display](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%209)  
 :white_small_square: [Lab 10 - Latches and Flip Flops](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%2010)  
-:white_small_square: [Lab 11 - Sequence Detector](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%2011)  
+:white_small_square: [Lab 11 - Sequence Detector](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%2011)   
+:white_small_square: [Lab 12 - Wheel of Fortune](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%2012)  
 ## <img src = https://img.shields.io/badge/python-%20-9cf>   𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟺𝟷𝟸
 :white_small_square: [Hw 1 - Num to Add](https://github.com/giannagalard/CSC-Courses/tree/main/Machine%20Learning/hw%201)  
 :white_small_square: [Hw 2 - Portland Housing Data](https://github.com/giannagalard/CSC-Courses/tree/main/Machine%20Learning/hw%202)  
