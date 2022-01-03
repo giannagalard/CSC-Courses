@@ -12,20 +12,6 @@
 ```
 
 # 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 𝗶𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 ⌨️ 
-## <img src = https://img.shields.io/badge/verilog-%20-9cf>   𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝙲𝚒𝚛𝚌𝚞𝚒𝚝𝚜 | 𝙲𝚂𝙲 𝟹𝟺𝟼/𝟹𝟺𝟽
-:white_small_square: [346 Hw's](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/346%20homeworks)  
-:white_small_square: [Lab 1 - Logic Gates](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%201)  
-:white_small_square: [Lab 2 - DeMorgans Laws](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%202)  
-:white_small_square: [Lab 3 - Binary Adder and Subtractor](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%203)  
-:white_small_square: [Lab 4 - Parity Generator and Checker](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%204)  
-:white_small_square: [Lab 5 - Single NAND-NOR chip](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%205)  
-:white_small_square: [Lab 6 - 2bit Adder and Subtractor](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%206)   
-:white_small_square: [Lab 7 - Introduction to Verilog](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%207)  
-:white_small_square: [Lab 8 - 9's Complementer](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%208)  
-:white_small_square: [Lab 9 - ALU and Seven Segment Display](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%209)  
-:white_small_square: [Lab 10 - Latches and Flip Flops](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%2010)  
-:white_small_square: [Lab 11 - Sequence Detector](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%2011)   
-:white_small_square: [Lab 12 - Wheel of Fortune](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%2012)  
 ## <img src = https://img.shields.io/badge/python-%20-9cf>   𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟺𝟷𝟸
 :white_small_square: [Hw 1 - Num to Add](https://github.com/giannagalard/CSC-Courses/tree/main/Machine%20Learning/hw%201)  
 :white_small_square: [Hw 2 - Portland Housing Data](https://github.com/giannagalard/CSC-Courses/tree/main/Machine%20Learning/hw%202)  
@@ -69,6 +55,20 @@
 :white_small_square: [Lab 5](https://github.com/giannagalard/CSC-Courses/blob/main/Operating%20Systems%20Programming/lab%205.cpp)   
 :white_small_square: [Bankers Algorithm](https://github.com/giannagalard/CSC-Courses/blob/main/Operating%20Systems%20Programming/Bankers%20Algorithm.cpp)   
 :white_small_square: [Final Project](https://github.com/giannagalard/CSC-Courses/tree/main/Operating%20Systems%20Programming/Final%20Project)  
+## <img src = https://img.shields.io/badge/verilog-%20-9cf>   𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝙲𝚒𝚛𝚌𝚞𝚒𝚝𝚜 | 𝙲𝚂𝙲 𝟹𝟺𝟼/𝟹𝟺𝟽
+:white_small_square: [346 Hw's](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/346%20homeworks)  
+:white_small_square: [Lab 1 - Logic Gates](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%201)  
+:white_small_square: [Lab 2 - DeMorgans Laws](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%202)  
+:white_small_square: [Lab 3 - Binary Adder and Subtractor](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%203)  
+:white_small_square: [Lab 4 - Parity Generator and Checker](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%204)  
+:white_small_square: [Lab 5 - Single NAND-NOR chip](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%205)  
+:white_small_square: [Lab 6 - 2bit Adder and Subtractor](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%206)   
+:white_small_square: [Lab 7 - Introduction to Verilog](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%207)  
+:white_small_square: [Lab 8 - 9's Complementer](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%208)  
+:white_small_square: [Lab 9 - ALU and Seven Segment Display](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%209)  
+:white_small_square: [Lab 10 - Latches and Flip Flops](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%2010)  
+:white_small_square: [Lab 11 - Sequence Detector](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%2011)   
+:white_small_square: [Lab 12 - Wheel of Fortune](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%2012)  
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf>   𝙸𝚗𝚝𝚎𝚛𝚟𝚒𝚎𝚠 𝙿𝚛𝚎𝚙 𝙲𝚘𝚞𝚛𝚜𝚎 | 𝙲𝚂𝙲 𝟻𝟿𝟷
 :white_small_square: [Backspace String Compare](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Backspace%20String%20Compare)  
 :white_small_square: [Balanced Binary Tree](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Balanced%20Binary%20Tree)  
