@@ -11,13 +11,7 @@
         𝚃𝚑𝚒𝚜 𝚛𝚎𝚙𝚘 𝚜𝚝𝚘𝚛𝚎𝚜 𝚊𝚕𝚕 𝚘𝚏 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚕𝚊𝚋𝚜 𝚏𝚘𝚛 𝚖𝚢 𝚙𝚊𝚜𝚝 𝚊𝚗𝚍 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚜 𝚌𝚘𝚕𝚕𝚎𝚐𝚎 𝚌𝚘𝚞𝚛𝚜𝚎𝚜 !　
 ```
 
-# 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 𝗶𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 ⌨️
-## <img src= https://img.shields.io/badge/mysql-%20-9cf>   𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 | 𝙲𝚂𝙲 𝟹𝟷𝟻  
-:white_small_square: [Lab 1 - Database Airtraffic](https://github.com/giannagalard/CSC-Courses/blob/main/Database%20Systems/lab1.sql)  
-:white_small_square: [Lab 2 - Database CSC315Lab2](https://github.com/giannagalard/CSC-Courses/blob/main/Database%20Systems/lab2.sql)  
-:white_small_square: [Lab 3 - Query Optimization](https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/lab%203)  
-:white_small_square: [Lab 4 - Inserting Data with PHP](https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/lab%204)    
-:white_small_square: [Flubber](https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/Flubber)   
+# 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 𝗶𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 ⌨️ 
 ## <img src = https://img.shields.io/badge/verilog-%20-9cf>   𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝙲𝚒𝚛𝚌𝚞𝚒𝚝𝚜 | 𝙲𝚂𝙲 𝟹𝟺𝟼/𝟹𝟺𝟽
 :white_small_square: [346 Hw's](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/346%20homeworks)  
 :white_small_square: [Lab 1 - Logic Gates](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%201)  
@@ -49,6 +43,12 @@
 :white_small_square: [Add Variables](https://github.com/giannagalard/CSC-Courses/blob/main/Computers%2C%20Networking%20and%20Security/AddVariables.asm)  
 :white_small_square: [Group Work Calculator](https://github.com/giannagalard/CSC-Courses/blob/main/Computers%2C%20Networking%20and%20Security/GroupWorkCalc.asm)  
 :white_small_square: [Test Fill Array](https://github.com/giannagalard/CSC-Courses/blob/main/Computers%2C%20Networking%20and%20Security/TestFillArray.asm)  
+## <img src= https://img.shields.io/badge/mysql-%20-9cf>   𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 | 𝙲𝚂𝙲 𝟹𝟷𝟻  
+:white_small_square: [Lab 1 - Database Airtraffic](https://github.com/giannagalard/CSC-Courses/blob/main/Database%20Systems/lab1.sql)  
+:white_small_square: [Lab 2 - Database CSC315Lab2](https://github.com/giannagalard/CSC-Courses/blob/main/Database%20Systems/lab2.sql)  
+:white_small_square: [Lab 3 - Query Optimization](https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/lab%203)  
+:white_small_square: [Lab 4 - Inserting Data with PHP](https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/lab%204)    
+:white_small_square: [Flubber](https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/Flubber)  
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf>   𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 | 𝙲𝚂𝙲 𝟹𝟸𝟼
 :white_small_square: [Garage Lab](https://github.com/giannagalard/CSC-Courses/tree/main/Data%20Structures/Garage%20Lab)  
 :white_small_square: [Sequence Lab](https://github.com/giannagalard/CSC-Courses/tree/main/Data%20Structures/Sequence%20Lab)

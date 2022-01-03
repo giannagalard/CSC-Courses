@@ -103,6 +103,7 @@ INSERT INTO Band_Styles (bname, sgname) VALUES ('Tengger Cavalry', 'Folk Metal')
 INSERT INTO Band_Styles (bname, sgname) VALUES ('Tengger Cavalry', 'Khoomii');
 
 -- -----------------------------------------------------------------------------------
+
 -- Create db user called “api” with limited access of read only of initially given 
 -- tables in the template, and read/write/update permissions for all additional tables 
 -- created for this project in the next steps.
@@ -135,7 +136,6 @@ CREATE TABLE Favorites (
 );
 
 
-
 -- cleanup
 DROP TABLE Band_Styles;
 DROP TABLE Band_Origins;
@@ -145,3 +145,5 @@ DROP TABLE Region;
 DROP TABLE Sub_Genre;
 DROP TABLE Genre;
 DROP DATABASE CSC315Final2021;
+FLUSH PRIVILEGES;
+DROP USER 'api'@'localhost';
