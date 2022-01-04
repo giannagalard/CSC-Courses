@@ -78,14 +78,14 @@ STUR X10, [X9, #0] // A[i] = A[j] + B[3]
     @ - A[5] = X3 + 8*5 = X3 + 40
 @ d)
 @ Assume C is a character array with 20 elements stored in memory and its starting memory address is in X4. What is the memory address for element C[12]?
-    @ - C[12] = X4 + 8*12 = X4 + 96
+    @ - C[12] = X4 + 12
 @ e)
 @ Write at least five different ways to assign 0 to register X3.
-    @ ADDI X3, XZR, #0 // 0 + 0
-    @ SUBI X3, XZR, #0 // 0 - 0
-    @ MOV X3, XZR // X3 = 0
-    @ EORI X3, XZR, #0 // 0 xor 0 = 0
-    @ ANDI X3, XZR, #1 // 0 and 1 = 0
+    ADDI X3, XZR, #0 // 0 + 0
+    SUBI X3, XZR, #0 // 0 - 0
+    MOV X3, XZR // X3 = 0
+    EORI X3, XZR, #0 // 0 xor 0 = 0
+    ANDI X3, XZR, #1 // 0 and 1 = 0
 
 
 // question 4
