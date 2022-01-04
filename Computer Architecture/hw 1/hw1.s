@@ -6,19 +6,19 @@
 @ Use a minimal number of LEGv8 assembly instructions. 
 @       f = g - (h + 5);
 
-// add h + 5 to f
-ADDI X5, X5, #5 
-// subtract g from (h+5) to f
-SUB X3, X5, X4
+    // add h + 5 to f
+    ADDI X5, X5, #5 
+    // subtract g from (h+5) to f
+    SUB X3, X5, X4
 
 @ b)  
 @ For the following C statement, write a minimal sequence of LEGv8 assembly instructions that performs the identical operation. 
 @ Assume d is in X2, and X3 is the base address of the array A.
 @       d = A[5] >> 3;
 
-// load offset 8*5=40 
-LDUR X9, [X3, #40] // X9 = A[5]
-LSR X2, X9, #3 // d = A[5] >> 3
+    // load offset 8*5=40 
+    LDUR X9, [X3, #40] // X9 = A[5]
+    LSR X2, X9, #3 // d = A[5] >> 3
 
 
 // question 2
@@ -29,17 +29,17 @@ LSR X2, X9, #3 // d = A[5] >> 3
 @ Assume that the base address of the arrays A and B are in registers X6 and X7, respectively.
 @         A[i-j] = B[4];
 
-// load B[4]
-// use x7 so that it will load w/e is in base address of B + offset of 32
-LDUR X7, [X7, #32] // X7 = B[4]
-// [i-j]]
-SUB X9, X3, X4 // X9 = i - j
-// offset of 8*(i-j)
-LSL X9, X9, #3 // X9 = 8*(i-j)
-// set address of A[i-j]
-ADD X9, X9, X6 // X9 = base address of A + offset of 8*(i-j)
-// store B[4]
-STUR X7, [X9, #0] // A[i-j] = B[4]
+    // load B[4]
+    // use x7 so that it will load w/e is in base address of B + offset of 32
+    LDUR X7, [X7, #32] // X7 = B[4]
+    // [i-j]]
+    SUB X9, X3, X4 // X9 = i - j
+    // offset of 8*(i-j)
+    LSL X9, X9, #3 // X9 = 8*(i-j)
+    // set address of A[i-j]
+    ADD X9, X9, X6 // X9 = base address of A + offset of 8*(i-j)
+    // store B[4]
+    STUR X7, [X9, #0] // A[i-j] = B[4]
 
 
 @ b)
@@ -48,23 +48,23 @@ STUR X7, [X9, #0] // A[i-j] = B[4]
 @  Assume that the base address of the arrays A and B are in registers X6 and X7, respectively.
 @         A[i] = A[j] + B[3];
 
-// load B[3]
-// use x7 so that it will load w/e is in base address of B + offset of 24
-LDUR X7, [X7, #24] // X7 = B[3]
-// offset of 8*j
-LSL X9, X4, #3 // X9 = 8*j
-// add base address of A to offset of 8*j
-ADD X9, X9, X6 // X9 = base address of A + offset of 8*j
-// load with offset #0
-LDUR X10, [X9, #0] // X10 = A[j]
-// add B[3] to A[j]
-ADD X10, X10, X7 // X10 = A[j] + B[3]
-// offset address of A[i]
-LSL X9, X3, #3 // X9 = 8*i
-// add base address of A to offset of 8*i
-ADD X9, X9, X6 // X9 = base address of A + offset of 8*i
-// store A[i]
-STUR X10, [X9, #0] // A[i] = A[j] + B[3]
+    // load B[3]
+    // use x7 so that it will load w/e is in base address of B + offset of 24
+    LDUR X7, [X7, #24] // X7 = B[3]
+    // offset of 8*j
+    LSL X9, X4, #3 // X9 = 8*j
+    // add base address of A to offset of 8*j
+    ADD X9, X9, X6 // X9 = base address of A + offset of 8*j
+    // load with offset #0
+    LDUR X10, [X9, #0] // X10 = A[j]
+    // add B[3] to A[j]
+    ADD X10, X10, X7 // X10 = A[j] + B[3]
+    // offset address of A[i]
+    LSL X9, X3, #3 // X9 = 8*i
+    // add base address of A to offset of 8*i
+    ADD X9, X9, X6 // X9 = base address of A + offset of 8*i
+    // store A[i]
+    STUR X10, [X9, #0] // A[i] = A[j] + B[3]
 
 
 // question 3
@@ -83,21 +83,24 @@ STUR X10, [X9, #0] // A[i] = A[j] + B[3]
 @ Write at least five different ways to assign 0 to register X3.
     ADDI X3, XZR, #0 // 0 + 0
     SUBI X3, XZR, #0 // 0 - 0
-    MOV X3, XZR // X3 = 0
-    EORI X3, XZR, #0 // 0 xor 0 = 0
     ANDI X3, XZR, #1 // 0 and 1 = 0
+    EORI X3, XZR, #0 // 0 xor 0 = 0
+    MOV X3, XZR // X3 = 0
 
 
 // question 4
 @ a)
 @ Follow the instructions below CONSECUTIVELY, and after each instruction write the value of destination register in decimal into the space provided.
-ORRI X0, X31, #5  // X0 = 5
-SUBI X1, X0, #2   // X1 = 3
-LSL X2, X1, #2    // X2 = 6
-ADD X3, X2, X2    // X3 = 12
-ANDI X4, X3, #13  // X4 = 12
+    ORRI X0, X31, #5  // X0 = 5
+    SUBI X1, X0, #2   // X1 = 3
+    LSL X2, X1, #2    // X2 = 6
+    ADD X3, X2, X2    // X3 = 12
+    ANDI X4, X3, #13  // X4 = 12
 @ b)
-@ For the following LEG8 assembly, assume that the registers X1 and X6, contain the values 20 and 256, respectively. Also, assume that memory contains the following values. What is the value of X0?
-SUBI X6, X6, #20  // X6 = 256 - 20 = 236
-ADD X6, X6, X1    // X6 = 236 + 20 = 256
-LDUR X0, [X6, #8] // X0 = memory[256+8] = memory[264] = 150
+@ For the following LEG8 assembly, assume that the registers X1 and X6, contain the values 20 and 256, respectively. 
+@ Also, assume that memory contains the following values. What is the value of X0?
+    SUBI X6, X6, #20  // X6 = 256 - 20 = 236
+    ADD X6, X6, X1    // X6 = 236 + 20 = 256
+    LDUR X0, [X6, #8] // X0 = memory[256+8] = memory[264] = 150
+
+
