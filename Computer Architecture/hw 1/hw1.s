@@ -6,10 +6,10 @@
 @ Use a minimal number of LEGv8 assembly instructions. 
 @       f = g - (h + 5);
 
-    // add h + 5 to f
-    ADDI X5, X5, #5 
+    // add h + 5 
+    ADDI X5, X5, #5 // X5 = X5 + 5
     // subtract g from (h+5) to f
-    SUB X3, X5, X4
+    SUB X3, X5, X4 // X3 = X5 - X4
 
 @ b)  
 @ For the following C statement, write a minimal sequence of LEGv8 assembly instructions that performs the identical operation. 
@@ -17,7 +17,7 @@
 @       d = A[5] >> 3;
 
     // load offset 8*5=40 
-    LDUR X9, [X3, #40] // X9 = A[5]
+    LDUR X9, [X3, #40] // X9 = A[5] 
     LSR X2, X9, #3 // d = A[5] >> 3
 
 
