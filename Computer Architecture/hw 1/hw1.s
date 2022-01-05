@@ -83,9 +83,10 @@
 @ Write at least five different ways to assign 0 to register X3.
     ADDI X3, XZR, #0 // 0 + 0
     SUBI X3, XZR, #0 // 0 - 0
-    ANDI X3, XZR, #1 // 0 and 1 = 0
+    MOV X3, XZR      // X3 = 0
     EORI X3, XZR, #0 // 0 xor 0 = 0
-    MOV X3, XZR // X3 = 0
+    ANDI X3, XZR, #1 // 0 and 1 = 0
+
 
 
 // question 4
@@ -102,5 +103,61 @@
     SUBI X6, X6, #20  // X6 = 256 - 20 = 236
     ADD X6, X6, X1    // X6 = 236 + 20 = 256
     LDUR X0, [X6, #8] // X0 = memory[256+8] = memory[264] = 150
+
+
+// question 9
+@ Write a sequence of LEGv8 instructions to do the following:
+@ set X8 to 100 if the contents of X1 is an odd number and set X9 to 200 otherwise. 
+@ Do not use division instruction in you code. Instead, you use an AND instruction to test if a number is even or odd.   
+
+// mask all but the least significant bit of X1
+AND X10, X1, #1
+// test if X10 is 0, if so, jump to EVEN, else jump to next instruction
+CBZ X10, EVEN 
+// if not 0, must be odd
+LDI X9, #200 // X9 = 200
+B END // jump to end
+// if LSB is 0, must be zero
+EVEN: LDI X8, #100 // X8 = 100
+END: // end of program
+
+// question 10
+@ Write the corresponding LEGv8 code for the following fragment of C code
+@ for ( int i = 0; i < 50; i++ )
+@       C[i] = C[i-1] – C[i+1]*9;
+@ Assume that the index i is in register X0, C is an integer array and the base address of C is in X2.
+@ How many instructions are executed? 
+@ How many data memory references have been made?  
+
+// start register at 0
+ADD X0, XZR, XZR // 0 + 0 = 0
+// begin loop
+LOOP: SUBI X15, X0, #50 // X15 = 50 - 0 = 50 
+CBZ X15, END // if X15 = 0, jump to END
+// offset
+// i is going to have an offset of 0
+LSL X9, X0, #3 // X9 = i*8
+// add base address of C to offset
+ADD X2, X2, X9 // X2 = base address of C + offset of i*8
+// i-1 is going to have an offset of -8
+LDUR X10, [X2, #-8] // X10 = C[i-1]
+// i+1 is going to have an offset of +8
+LDUR X11, [X2, #8] // X11 = C[i+1]
+// multiply C[i+1] by 9
+MUL X12, X11, #9 // X12 = C[i+1] * 9
+// subtract C[i+1]*9 from C[i-1]
+SUB X13, X10, X12 // X13 = C[i-1] - C[i+1]*9
+// store C[i]
+STUR X13, [X2, #0] // C[i] = C[i-1] - C[i+1]*9
+// increment i
+ADD X0, X0, #1 // i = i + 1
+// jump to LOOP
+B LOOP
+END: // end of program
+
+@ HOW MANY INSTRUCTIONS ARE EXECUTED ? - 11 * 50 = 550 + 1 = 551 + 2 = 553
+@ HOW MANY DATA MEMORY REFERENCES HAVE BEEN MADE ? - 3 * 50 = 150
+
+
 
 
