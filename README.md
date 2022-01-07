@@ -14,6 +14,7 @@
 # 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 𝗶𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 ⌨️ 
 ## <img src= https://img.shields.io/badge/LEGv8-%20-9cf>   𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙰𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 | 𝙲𝚂𝙲 𝟺𝟺𝟼
 :white_small_square: [HW 1](https://github.com/giannagalard/CSC-Courses/tree/main/Computer%20Architecture/hw%201)   
+:white_small_square: [HW 2](https://github.com/giannagalard/CSC-Courses/tree/main/Computer%20Architecture/hw%202)  
 # 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 🗸 
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf>   𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟸𝟷𝟷  
 :white_small_square: [Clock](https://github.com/giannagalard/CSC-Courses/blob/main/Intermediate%20Programming/Clock.cpp)    
