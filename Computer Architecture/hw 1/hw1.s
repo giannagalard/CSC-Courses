@@ -111,7 +111,7 @@
 @ Do not use division instruction in you code. Instead, you use an AND instruction to test if a number is even or odd.   
 
 // mask all but the least significant bit of X1
-AND X10, X1, #1
+AND X10, X1, #1 // X10 = X1 & 1 = 0
 // test if X10 is 0, if so, jump to EVEN, else jump to next instruction
 CBZ X10, EVEN 
 // if not 0, must be odd
