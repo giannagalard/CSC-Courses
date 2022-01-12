@@ -33,6 +33,7 @@
 :white_small_square: [Lab 3 - Query Optimization](https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/lab%203)  
 :white_small_square: [Lab 4 - Inserting Data with PHP](https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/lab%204)    
 :white_small_square: [Flubber](https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/Flubber)  
+:white_small_square: [Final Project](https://github.com/giannagalard/CSC-Courses/tree/main/Database%20Systems/Final%20Project)  
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf>   𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 | 𝙲𝚂𝙲 𝟹𝟸𝟼
 :white_small_square: [Garage Lab](https://github.com/giannagalard/CSC-Courses/tree/main/Data%20Structures/Garage%20Lab)  
 :white_small_square: [Sequence Lab](https://github.com/giannagalard/CSC-Courses/tree/main/Data%20Structures/Sequence%20Lab)
