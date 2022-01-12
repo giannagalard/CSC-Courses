@@ -1,4 +1,3 @@
-
 CREATE DATABASE CSC315Final2021;
 USE CSC315Final2021;
 
@@ -49,7 +48,6 @@ INSERT INTO Bands (bname) VALUES ('Seputura'), ('Death'), ('Muddy Waters'), ('Le
 INSERT INTO Bands (bname) VALUES ('The Hu'), ('Huun-Huur-Tu'), ('Paul Pena'), ('Battuvshin'), ('Sade');
 INSERT INTO Bands (bname) VALUES ('Mozart'), ('Tchaikovsky'), ('Twisted Sister'), ('Testament'), ('Tengger Cavalry');
 
-
 CREATE TABLE Band_Origins (
 	boid INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
 	bname CHAR(20) NOT NULL,
@@ -71,7 +69,6 @@ INSERT INTO Band_Origins (bname, cname) VALUES ('Tchaikovsky', 'Russia');
 INSERT INTO Band_Origins (bname, cname) VALUES ('Twisted Sister', 'United States');
 INSERT INTO Band_Origins (bname, cname) VALUES ('Testament', 'United States');
 INSERT INTO Band_Origins (bname, cname) VALUES ('Tengger Cavalry', 'United States');
-
 
 CREATE TABLE Band_Styles (
 	boid INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
@@ -102,12 +99,12 @@ INSERT INTO Band_Styles (bname, sgname) VALUES ('Testament', 'Thrash Metal');
 INSERT INTO Band_Styles (bname, sgname) VALUES ('Tengger Cavalry', 'Folk Metal');
 INSERT INTO Band_Styles (bname, sgname) VALUES ('Tengger Cavalry', 'Khoomii');
 
--- -----------------------------------------------------------------------------------
+-- END OF GIVEN SQL ------------------------
 
--- Create db user called “api” with limited access of read only of initially given 
--- tables in the template, and read/write/update permissions for all additional tables 
--- created for this project in the next steps.
-CREATE USER 'api'@'localhost' IDENTIFIED BY 'root';
+-- 1. (9 points) Create db user called “api” with limited access of read only of initially given 
+-- tables in the template, and read/write/update permissions for all additional tables created 
+-- for this project in the next steps.
+CREATE USER 'api'@'localhost' IDENTIFIED BY 'luna';
 GRANT SELECT ON Genre TO 'api'@'localhost';
 GRANT SELECT ON Sub_Genre TO 'api'@'localhost';
 GRANT SELECT ON Region TO 'api'@'localhost';
@@ -118,25 +115,109 @@ GRANT SELECT ON Band_Styles TO 'api'@'localhost';
 
 SHOW GRANTS;
 
---  Create a User relation. User needs an ID, name, and home country.
-CREATE TABLE User (
-	uid INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    username varchar(20),
-    rid int NOT NULL,
-    FOREIGN KEY (rid) REFERENCES Country (rid)
+-- 2. (9 points) Create a User relation. User needs an ID, name, and home country.
+CREATE TABLE Users (
+	uid int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	username VARCHAR(20),
+    homeCountry VARCHAR(20)
 );
 
--- Create a Favorites relation. Favorites needs to reference user, and bands.
+-- 3. (9 points) Create a Favorites relation. Favorites needs to reference user, and bands.
 CREATE TABLE Favorites (
-	fid INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    uid INT NOT NULL,
-    bid INT NOT NULL,
-    FOREIGN KEY (uid) REFERENCES User (uid),
-    FOREIGN KEY (bid) REFERENCES Bands (bid)
+    uid int NOT NULL,
+    bid int NOT NULL,
+    FOREIGN KEY (uid) REFERENCES Users(uid),
+    FOREIGN KEY (bid) REFERENCES Bands(bid)
 );
+
+-- 4. (9 points) Create a query to determine which sub_genres come from which regions.
+SELECT DISTINCT S.sgname, R.rname FROM Band_Styles S JOIN
+    (SELECT O.bname, C.rname FROM Band_Origins O JOIN Country C
+        WHERE C.cname = O.cname
+    ) AS R
+    WHERE S.bname = R.bname;
+
+-- 5. (9 points) Create a query to determine what other bands, not currently in their favorites,
+-- are of the same sub_genres as those which are.
+SELECT bname FROM
+(SELECT DISTINCT sgname FROM 
+    (SELECT bname FROM Bands WHERE bid IN 
+        (SELECT bid FROM Favorites WHERE uid = 1)
+    ) AS UsersFavorites
+    JOIN
+    (SELECT bname,sgname FROM Band_Styles) AS Styles 
+    WHERE UsersFavorites.bname = Styles.bname) AS SGUsersFavorites
+JOIN
+(SELECT DISTINCT NotFavorites.bname,sgname FROM 
+    (SELECT bid,bname FROM Bands WHERE bid NOT IN 
+        (SELECT bid FROM Favorites WHERE uid=1)
+    ) as NotFavorites
+    JOIN
+    (SELECT bname,sgname FROM Band_Styles) AS Styles 
+    WHERE NotFavorites.bname = Styles.bname) AS SGNotUsersFavorites
+WHERE SGNotUsersFavorites.sgname = SGUsersFavorites.sgname; 
+
+-- 6. (9 points) Create a query to determine what other bands, not currently in their favorites, 
+-- are of the same genres as those which are.
+SELECT DISTINCT GNotUsersFavorites.bname,GNotUsersFavorites.gname FROM
+
+    (SELECT DISTINCT UsersFavorites.bname,BGenre.gname FROM 
+        (SELECT bname FROM Bands WHERE bid IN 
+            (SELECT bid FROM Favorites WHERE uid=1)
+        ) AS UsersFavorites
+        JOIN
+        (SELECT Style.bname,Style.sgname,SGenre.gname FROM
+            Band_Styles Style JOIN Sub_Genre SGenre 
+                WHERE Style.sgname=SGenre.sgname
+            ) AS BGenre
+    WHERE UsersFavorites.bname=BGenre.bname) AS GUsersFavorites
+    JOIN
+    (SELECT DISTINCT NotUsersFavorites.bname,BGenre.gname FROM 
+        (SELECT bname FROM Bands WHERE bid NOT IN
+            (SELECT bid FROM Favorites WHERE uid=1)
+        ) AS NotUsersFavorites
+        JOIN
+        (SELECT Style.bname,Style.sgname,SGenre.gname FROM 
+            Band_Styles Style JOIN Sub_Genre SGenre 
+                WHERE Style.sgname=SGenre.sgname
+            ) AS BGenre
+    WHERE NotUsersFavorites.bname=BGenre.bname) AS GNotUsersFavorites
+
+WHERE GNotUsersFavorites.gname=GUsersFavorites.gname;
+
+-- 7. (9 points) Create a query which finds other users who have the same band in their favorites, 
+-- and list their other favorite bands.
+SELECT bname FROM Bands JOIN
+    (SELECT DISTINCT bid FROM
+        (SELECT uid FROM Favorites WHERE bid IN 
+            (SELECT bid FROM Favorites WHERE uid=1)
+                AND uid!=1) AS OtherUsers
+        JOIN
+        (select * from Favorites) AS F
+    WHERE F.uid=OtherUsers.uid) AS OtherFavorites
+WHERE Bands.bid=OtherFavorites.bid;
+
+-- 8. (9 points) Create a query to list other countries, excluding the user’s home country, 
+-- where they could travel to where they could hear the same genres as the bands in their favorites.
+SELECT DISTINCT cname FROM Band_Origins
+JOIN
+    (SELECT DISTINCT BGenre.* FROM 
+        (SELECT bname FROM Bands WHERE bid IN
+            (SELECT bid FROM Favorites WHERE uid=1)
+        ) AS UsersFavorites
+        JOIN
+        (SELECT Style.bname,Style.sgname,SGenre.gname FROM  
+            Band_Styles Style JOIN Sub_Genre SGenre 
+                where Style.sgname=SGenre.sgname
+            ) AS BGenre
+    WHERE UsersFavorites.bname=BGenre.bname) AS UserGenres
+WHERE Band_Origins.bname=UserGenres.bname AND
+cname NOT IN (SELECT homeCountry FROM Users WHERE uid=1);
 
 
 -- cleanup
+DROP TABLE Favorites;
+DROP TABLE Users;
 DROP TABLE Band_Styles;
 DROP TABLE Band_Origins;
 DROP TABLE Bands;
@@ -145,5 +226,3 @@ DROP TABLE Region;
 DROP TABLE Sub_Genre;
 DROP TABLE Genre;
 DROP DATABASE CSC315Final2021;
-FLUSH PRIVILEGES;
-DROP USER 'api'@'localhost';
