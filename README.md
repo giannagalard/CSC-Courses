@@ -13,10 +13,15 @@
 
 # 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 𝗶𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 ⌨️ 
 ## <img src= https://img.shields.io/badge/html-%20-9cf> <img src=https://img.shields.io/badge/css-%20-9cf>   𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 | 𝙲𝚂𝙲 𝟸𝟸𝟻
+:white_small_square:
 ## <img src= https://img.shields.io/badge/html-%20-9cf> <img src=https://img.shields.io/badge/css-%20-9cf> <img src=https://img.shields.io/badge/php-%20-9cf>   𝚆𝚎𝚋 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 | 𝙲𝚂𝙲 𝟸𝟸𝟼
+:white_small_square:
 ## <img src= https://img.shields.io/badge/c%2B%2B-%20-9cf>   𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 𝚘𝚏 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜 | 𝙲𝚂𝙲 𝟹𝟾𝟸
+:white_small_square:
 ## <img src= https://img.shields.io/badge/c%23-%20-9cf> <img src=https://img.shields.io/badge/js-%20-9cf> <img src=https://img.shields.io/badge/react-%20-9cf> <img src=https://img.shields.io/badge/html-%20-9cf> <img src=https://img.shields.io/badge/css-%20-9cf>   𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟺𝟹𝟶
+:white_small_square:
 ## <img src= https://img.shields.io/badge/python-%20-9cf>   𝙰𝚛𝚝𝚒𝚏𝚒𝚌𝚒𝚊𝚕 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎 | 𝙲𝚂𝙲 𝟺𝟾𝟶
+:white_small_square:
 # 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 🗸 
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf>   𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟸𝟷𝟷  
 :white_small_square: [Clock](https://github.com/giannagalard/CSC-Courses/blob/main/Intermediate%20Programming/Clock.cpp)    
