@@ -12,11 +12,11 @@
 ```
 
 # 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 𝗶𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 ⌨️ 
-## <img src= https://img.shields.io/badge/LEGv8-%20-9cf>   𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙰𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 | 𝙲𝚂𝙲 𝟺𝟺𝟼
-:white_small_square: [HW 1](https://github.com/giannagalard/CSC-Courses/blob/main/Computer%20Architecture/hw%201/Homework1.pdf)   
-:white_small_square: [HW 2](https://github.com/giannagalard/CSC-Courses/tree/main/Computer%20Architecture/hw%202/Homework2.pdf)  
-:white_small_square: [HW 3](https://github.com/giannagalard/CSC-Courses/tree/main/Computer%20Architecture/hw%203/Homework3.pdf)  
-:white_small_square: [HW 4](https://github.com/giannagalard/CSC-Courses/tree/main/Computer%20Architecture/hw%204/Homework4.pdf)
+## <img src= https://img.shields.io/badge/html-%20-9cf><img src=https://img.shields.io/badge/css-%20-9cf>   𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 | 𝙲𝚂𝙲 𝟸𝟸𝟻
+## <img src= https://img.shields.io/badge/html-%20-9cf><img src=https://img.shields.io/badge/css-%20-9cf><img src=https://img.shields.io/badge/php-%20-9cf>   𝚆𝚎𝚋 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 | 𝙲𝚂𝙲 𝟸𝟸𝟼
+## <img src= https://img.shields.io/badge/c%2B%2B-%20-9cf>   𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 𝚘𝚏 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜 | 𝙲𝚂𝙲 𝟹𝟾𝟸
+## <img src= https://img.shields.io/badge/c#-%20-9cf><img src=https://img.shields.io/badge/js-%20-9cf><img src=https://img.shields.io/badge/react-%20-9cf><img src=https://img.shields.io/badge/html-%20-9cf><img src=https://img.shields.io/badge/css-%20-9cf>   𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟺𝟹𝟶
+## <img src= https://img.shields.io/badge/python-%20-9cf>   𝙰𝚛𝚝𝚒𝚏𝚒𝚌𝚒𝚊𝚕 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎 | 𝙲𝚂𝙲 𝟺𝟾𝟶
 # 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 🗸 
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf>   𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟸𝟷𝟷  
 :white_small_square: [Clock](https://github.com/giannagalard/CSC-Courses/blob/main/Intermediate%20Programming/Clock.cpp)    
@@ -75,6 +75,11 @@
 :white_small_square: [Hw 2 - Portland Housing Data](https://github.com/giannagalard/CSC-Courses/tree/main/Machine%20Learning/hw%202)  
 :white_small_square: [Hw 3 - Midterm Review](https://github.com/giannagalard/CSC-Courses/tree/main/Machine%20Learning/hw%203)  
 :white_small_square: [Group Project - Data Cleaning](https://github.com/giannagalard/CSC-Courses/tree/main/Machine%20Learning/data-cleaning)  
+## <img src= https://img.shields.io/badge/LEGv8-%20-9cf>   𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙰𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 | 𝙲𝚂𝙲 𝟺𝟺𝟼
+:white_small_square: [HW 1](https://github.com/giannagalard/CSC-Courses/blob/main/Computer%20Architecture/hw%201/Homework1.pdf)   
+:white_small_square: [HW 2](https://github.com/giannagalard/CSC-Courses/tree/main/Computer%20Architecture/hw%202/Homework2.pdf)  
+:white_small_square: [HW 3](https://github.com/giannagalard/CSC-Courses/tree/main/Computer%20Architecture/hw%203/Homework3.pdf)  
+:white_small_square: [HW 4](https://github.com/giannagalard/CSC-Courses/tree/main/Computer%20Architecture/hw%204/Homework4.pdf)  
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf>   𝙸𝚗𝚝𝚎𝚛𝚟𝚒𝚎𝚠 𝙿𝚛𝚎𝚙 𝙲𝚘𝚞𝚛𝚜𝚎 | 𝙲𝚂𝙲 𝟻𝟿𝟷
 :white_small_square: [Backspace String Compare](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Backspace%20String%20Compare)  
 :white_small_square: [Balanced Binary Tree](https://github.com/giannagalard/CSC-Courses/tree/main/Interview%20Prep/Balanced%20Binary%20Tree)  
