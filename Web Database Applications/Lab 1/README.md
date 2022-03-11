@@ -1,9 +1,8 @@
 # H1 Assignment #1 Try PHP !
 
-```
-
 [Click here to view my code :-)](http://163.238.35.165/~galard/index.php)
 
+```
 Write a php script that assigns your name to a string variable, the number of credits you are taking to an integer variable, and any value to a floating point variable.
 The html rendered page should show the types of the variables and the values of the variables . Use the vardump function to print out the types of the variables.
 Your html page should also display a welcome message to the name that is stored in a string variable. If the credits are >= 12, the displayed html page will have the message "FULL TIME STUDENT", otherwise the diplayed html page will have the message "PART TIME STUDENT"
