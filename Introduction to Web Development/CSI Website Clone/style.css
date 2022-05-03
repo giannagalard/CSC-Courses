@@ -1,0 +1,174 @@
+/* define variables */
+:root {
+    /* navbar */
+    --navBarGrey: #444e5a;
+    --navBarText: #ffffff;
+    --navBarLinkColor: #7ab5d8;
+    /* menu */
+    --navMenuText: #444e5a;
+    --navMenuLinkColor: #1466d1;
+    --navMenuBG: #ffffff;
+    --navMenuBorder: #cccccc;
+    --buttonBG: #444e5a;
+    /* banner */
+    --bannerBG: #1268d2;
+    --bannerText: #ffffff;
+    /* info boxes */
+    --infoBoxHeaderBG: #1268d2;
+    --infoBoxBG: #ffffff;
+    --infoBoxHeaderText: #ffffff;
+    --infoBoxText: #444e5a;
+    --infoBoxLinkColor: #1466d1;
+    --infoBoxOutline: #1268d2;
+  }
+  
+  /* applies to all */
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  html {
+    overflow-x: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ */
+  
+  /* navbar */
+  .navBar {
+    background: var(--navBarGrey);
+    height: 43px;
+    width: 100%;
+  }
+  
+  .navText {
+    font-size: 14px;
+    color: var(--navBarText);
+    display: flex;
+    align-items: flex-end;
+    justify-content: right;
+    margin-right: 135px;
+    line-height: 43px;
+  }
+  
+  /* link coloring and decorating */
+  .navText a:link,
+  .navText a:visited {
+    color: var(--navBarText);
+    text-decoration: none;
+  }
+  .navText a:hover {
+    color: var(--navBarLinkColor);
+    text-decoration: underline;
+  }
+  
+  .navMenu {
+    background: var(--navMenuBG);
+    height: 86px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid var(--navMenuBorder);
+  }
+  
+  .navMenuText {
+    font-weight: bold;
+    font-size: 16px;
+    padding: 25px;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+  }
+  
+  .navMenu button {
+    width: 100%;
+    height: 90%;
+    background: var(--buttonBG);
+    border: none;
+    margin-left: 30px;
+    margin-right: 115px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  /* image resizing */
+  #logo {
+    width: 275px;
+    margin-left: 100px;
+    cursor: pointer;
+  }
+  
+  /* link coloring and decorating */
+  .navMenuText a:link,
+  .navMenuText a:visited {
+    color: var(--navMenuText);
+    text-decoration: none;
+  }
+  
+  .navMenuText a:hover {
+    color: var(--navMenuLinkColor);
+    text-decoration: underline;
+  }
+  
+  .navMenuText a {
+    width: 25%;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+  /* navbar fixed positioning */
+  .positioning {
+    position: fixed;
+    width: 100%;
+  }
+  
+  /* ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ */
+  
+  .margin {
+    height: 21vh;
+  }
+  
+  /* photo banner */
+  
+  .bannerImage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .image {
+    width: 85%;
+  }
+  
+  .banner {
+    background: var(--bannerBG);
+    height: 115px;
+    width: 85%;
+  }
+  
+  .bannerText {
+    font-size: 14px;
+    color: var(--bannerText);
+    padding: 20px;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+  }
+  
+  .title {
+    font-weight: bold;
+    font-size: 19px;
+  }
+  
+  .subtitle {
+    font-weight: strong;
+    font-size: 14px;
+  }
+  
+  /* ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ */
+  
