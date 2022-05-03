@@ -1,0 +1,207 @@
+* {
+    margin 0;
+  }
+  
+  html, body {
+    width: 100%;
+    height: 100%;
+    font-family: Arial;
+  }
+  
+  .promotion {
+    height: 30px;
+    background-color: #5E9DA0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .promoText {
+    text-align: center;
+    color: white;
+  }
+  
+  .navBar {
+    positon: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+  }
+  
+  .navBarLogo {
+    margin-right: 10px;
+    width: 150px;
+  }
+  
+  .mainNavBar {
+    padding: 20px 60px 20px 60px;
+    display: flex;
+    flex: 1 1 30%;
+    flex-direction: row;
+  }
+  
+  .generalItems {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .generalListedItems {
+    gap: 30px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .items {
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .linkedItem {
+    color: #9C9294;
+    text-decoration: none;
+    font-family: Arial;
+  }
+  
+  .itemSpecial {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  
+  .linkedItemSpecial {
+    height: 55%;
+    color: #6B9098;
+    border-bottom: 5px solid #6B9098;
+  }
+  
+  .navActions {
+    flex: 1 1 20%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .actionItemList {
+    gap: 30px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .subNavBar {
+    positon: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border-top: 1px solid #E7E7E7;
+    border-bottom: 1px solid #E7E7E7;
+    background-color: #F3F3F3;
+    height: 80px;
+  }
+  
+  .subItems {
+    padding: 0px 150px;
+    flex: 2 1 30%;
+    display: flex;
+    height: 100%;
+  }
+  
+  .shopItems {
+    height: 100%;
+  }
+  
+  .shopItemsList {
+    height: 100%;
+    gap: 30px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .search {
+    flex: 0 0 62%;
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .searchInput {
+    border: 1px solid grey;
+    width: 230px;
+    background-image: url("https://img.icons8.com/material-two-tone/24/000000/search.png");
+    background-repeat: no-repeat;
+    height: 35px;
+    background-position: 5px 5px;
+  }
+  
+  .itemsListed {
+    width: 100%;
+  }
+  
+  .row {
+    margin-top: 30px;
+    margin-left: 20%;
+    gap: 30px;
+    justify-content: left;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .column {
+    position: relative;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    height: 600px;
+    width: 400px;
+  }
+  
+  .imgContainer {
+    background-color:#EEEEEE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 70%;
+  }
+  
+  .colContent {
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .productImage {
+    width: 80%;
+  }
+  
+  .colDescription {
+    margin-top: 22px;
+  }
+  
+  .colPrice {
+    margin-top: 22px;
+  }
+  
+  .specials {
+    justify-content: center;
+    width: 100%;
+    display: flex;
+    position: absolute;
+    margin-top: -30px;
+  }
+  
+  .specialText {
+    font-weight: 100;
+    font-size: smaller;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 5px;
+    background-color: white;
+  }
