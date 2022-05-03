@@ -17,7 +17,8 @@
 
 :white_small_square: [In Class Lab 1](https://github.com/giannagalard/CSC-Courses/tree/main/Introduction%20to%20Web%20Development/In%20Class%20Lab%201)  
 :white_small_square: [In Class Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Introduction%20to%20Web%20Development/In%20Class%20Lab%202)  
-:white_small_square: [CSI Website Clone](https://github.com/giannagalard/CSC-Courses/tree/main/Introduction%20to%20Web%20Development/CSI%20Website%20Clone)
+:white_small_square: [CSI Website Clone](https://github.com/giannagalard/CSC-Courses/tree/main/Introduction%20to%20Web%20Development/CSI%20Website%20Clone)  
+:white_small_square: [Test 2](https://github.com/giannagalard/CSC-Courses/tree/main/Introduction%20to%20Web%20Development/Test%202)
 
 ## <img src= https://img.shields.io/badge/html-%20-9cf> <img src=https://img.shields.io/badge/css-%20-9cf> <img src=https://img.shields.io/badge/php-%20-9cf> 𝚆𝚎𝚋 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 | 𝙲𝚂𝙲 𝟸𝟸𝟼
 
