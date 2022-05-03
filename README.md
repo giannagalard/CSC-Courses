@@ -39,7 +39,7 @@
 
 ## <img src= https://img.shields.io/badge/python-%20-9cf> 𝙰𝚛𝚝𝚒𝚏𝚒𝚌𝚒𝚊𝚕 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎 | 𝙲𝚂𝙲 𝟺𝟾𝟶
 
-:white_small_square:
+:white_small_square: [What A Rush !](https://github.com/giannagalard/CSC-Courses/blob/main/Artificial%20Intelligence/What%20a%20Rush/What%20A%20Rush%20!.pdf)
 
 # 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 🗸
 
