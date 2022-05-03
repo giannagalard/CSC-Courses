@@ -20,7 +20,8 @@
 
 ## <img src= https://img.shields.io/badge/html-%20-9cf> <img src=https://img.shields.io/badge/css-%20-9cf> <img src=https://img.shields.io/badge/php-%20-9cf> 𝚆𝚎𝚋 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 | 𝙲𝚂𝙲 𝟸𝟸𝟼
 
-:white_small_square: [Lab 1](https://github.com/giannagalard/CSC-Courses/tree/main/Web%20Database%20Applications/Lab%201)
+:white_small_square: [Lab 1](https://github.com/giannagalard/CSC-Courses/tree/main/Web%20Database%20Applications/Lab%201)  
+:white_small_square: [Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Web%20Database%20Applications/Lab%202)
 
 ## <img src= https://img.shields.io/badge/c%2B%2B-%20-9cf> 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 𝚘𝚏 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜 | 𝙲𝚂𝙲 𝟹𝟾𝟸
 
