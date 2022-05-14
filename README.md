@@ -31,7 +31,8 @@
 :white_small_square: [Lab 1](https://github.com/giannagalard/CSC-Courses/tree/main/Analysis%20of%20Algorithms/Lab%201)  
 :white_small_square: [Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Analysis%20of%20Algorithms/Lab%202)  
 :white_small_square: [Lab 3](https://github.com/giannagalard/CSC-Courses/tree/main/Analysis%20of%20Algorithms/Lab%203)  
-:white_small_square: [Lab 4](https://github.com/giannagalard/CSC-Courses/tree/main/Analysis%20of%20Algorithms/Lab%204)
+:white_small_square: [Lab 4](https://github.com/giannagalard/CSC-Courses/tree/main/Analysis%20of%20Algorithms/Lab%204)  
+:white_small_square: [Lab 5](https://github.com/giannagalard/CSC-Courses/tree/main/Analysis%20of%20Algorithms/Lab%205)
 
 ## <img src= https://img.shields.io/badge/c%23-%20-9cf> <img src=https://img.shields.io/badge/js-%20-9cf> <img src=https://img.shields.io/badge/react-%20-9cf> <img src=https://img.shields.io/badge/html-%20-9cf> <img src=https://img.shields.io/badge/css-%20-9cf> 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟺𝟹𝟶
 
