@@ -39,7 +39,7 @@
 :white_small_square: [Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Software%20Engineering/Lab%202)  
 :white_small_square: [Lab 3](https://github.com/giannagalard/CSC-Courses/tree/main/Software%20Engineering/Lab%203)  
 :white_small_square: [Lab 4](https://github.com/giannagalard/CSC-Courses/tree/main/Software%20Engineering/Lab%204)  
-:white_small_square: [Final Project](https://github.com/giannagalard/CSC-Courses/tree/main/Software%20Engineering/Final%20Project)
+:white_small_square: [Final Project - Elden Ring Cuisine](https://github.com/giannagalard/CSC-Courses/tree/main/Software%20Engineering/Final%20Project)
 
 ## <img src= https://img.shields.io/badge/python-%20-9cf> 𝙰𝚛𝚝𝚒𝚏𝚒𝚌𝚒𝚊𝚕 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎 | 𝙲𝚂𝙲 𝟺𝟾𝟶
 
