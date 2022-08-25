@@ -13,41 +13,7 @@
 
 # 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 𝗶𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 ⌨️
 
-## <img src= https://img.shields.io/badge/html-%20-9cf> <img src=https://img.shields.io/badge/css-%20-9cf> 𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 | 𝙲𝚂𝙲 𝟸𝟸𝟻
-
-:white_small_square: [In Class Lab 1](https://github.com/giannagalard/CSC-Courses/tree/main/Introduction%20to%20Web%20Development/In%20Class%20Lab%201)  
-:white_small_square: [In Class Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Introduction%20to%20Web%20Development/In%20Class%20Lab%202)  
-:white_small_square: [CSI Website Clone](https://github.com/giannagalard/CSC-Courses/tree/main/Introduction%20to%20Web%20Development/CSI%20Website%20Clone)  
-:white_small_square: [Test 2](https://github.com/giannagalard/CSC-Courses/tree/main/Introduction%20to%20Web%20Development/Test%202)
-
-## <img src= https://img.shields.io/badge/html-%20-9cf> <img src=https://img.shields.io/badge/css-%20-9cf> <img src=https://img.shields.io/badge/php-%20-9cf> 𝚆𝚎𝚋 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 | 𝙲𝚂𝙲 𝟸𝟸𝟼
-
-:white_small_square: [Lab 1](https://github.com/giannagalard/CSC-Courses/tree/main/Web%20Database%20Applications/Lab%201)  
-:white_small_square: [Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Web%20Database%20Applications/Lab%202)  
-:white_small_square: [Final Project - Weather App](https://github.com/giannagalard/CSC-Courses/tree/main/Web%20Database%20Applications/Final%20Project)
-
-## <img src= https://img.shields.io/badge/c%2B%2B-%20-9cf> 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 𝚘𝚏 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜 | 𝙲𝚂𝙲 𝟹𝟾𝟸
-
-:white_small_square: [Lab 1](https://github.com/giannagalard/CSC-Courses/tree/main/Analysis%20of%20Algorithms/Lab%201)  
-:white_small_square: [Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Analysis%20of%20Algorithms/Lab%202)  
-:white_small_square: [Lab 3](https://github.com/giannagalard/CSC-Courses/tree/main/Analysis%20of%20Algorithms/Lab%203)  
-:white_small_square: [Lab 4](https://github.com/giannagalard/CSC-Courses/tree/main/Analysis%20of%20Algorithms/Lab%204)  
-:white_small_square: [Lab 5](https://github.com/giannagalard/CSC-Courses/tree/main/Analysis%20of%20Algorithms/Lab%205)
-
-## <img src= https://img.shields.io/badge/c%23-%20-9cf> <img src=https://img.shields.io/badge/js-%20-9cf> <img src=https://img.shields.io/badge/react-%20-9cf> <img src=https://img.shields.io/badge/html-%20-9cf> <img src=https://img.shields.io/badge/css-%20-9cf> 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟺𝟹𝟶
-
-:white_small_square: [Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Software%20Engineering/Lab%202)  
-:white_small_square: [Lab 3](https://github.com/giannagalard/CSC-Courses/tree/main/Software%20Engineering/Lab%203)  
-:white_small_square: [Lab 4](https://github.com/giannagalard/CSC-Courses/tree/main/Software%20Engineering/Lab%204)  
-:white_small_square: [Lab 5](https://github.com/giannagalard/CSC-Courses/tree/main/Software%20Engineering/Lab%205)  
-:white_small_square: [Final Project - Elden Ring Cuisine](https://github.com/giannagalard/CSC-Courses/tree/main/Software%20Engineering/Final%20Project)
-
-## <img src= https://img.shields.io/badge/python-%20-9cf> 𝙰𝚛𝚝𝚒𝚏𝚒𝚌𝚒𝚊𝚕 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎 | 𝙲𝚂𝙲 𝟺𝟾𝟶
-
-:white_small_square: [What A Rush !](https://github.com/giannagalard/CSC-Courses/blob/main/Artificial%20Intelligence/What%20a%20Rush/What%20A%20Rush%20!.pdf)  
-:white_small_square: [AlphaFold](https://github.com/giannagalard/CSC-Courses/blob/main/Artificial%20Intelligence/Final%20Project/AlphaFold.pdf)
-
-# 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 🗸
+# 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 🖥️
 
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf> 𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟸𝟷𝟷
 
@@ -63,6 +29,19 @@
 :white_small_square: [Add Variables](https://github.com/giannagalard/CSC-Courses/blob/main/Computers%2C%20Networking%20and%20Security/AddVariables.asm)  
 :white_small_square: [Group Work Calculator](https://github.com/giannagalard/CSC-Courses/blob/main/Computers%2C%20Networking%20and%20Security/GroupWorkCalc.asm)  
 :white_small_square: [Test Fill Array](https://github.com/giannagalard/CSC-Courses/blob/main/Computers%2C%20Networking%20and%20Security/TestFillArray.asm)
+
+## <img src= https://img.shields.io/badge/html-%20-9cf> <img src=https://img.shields.io/badge/css-%20-9cf> 𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 | 𝙲𝚂𝙲 𝟸𝟸𝟻
+
+:white_small_square: [In Class Lab 1](https://github.com/giannagalard/CSC-Courses/tree/main/Introduction%20to%20Web%20Development/In%20Class%20Lab%201)  
+:white_small_square: [In Class Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Introduction%20to%20Web%20Development/In%20Class%20Lab%202)  
+:white_small_square: [CSI Website Clone](https://github.com/giannagalard/CSC-Courses/tree/main/Introduction%20to%20Web%20Development/CSI%20Website%20Clone)  
+:white_small_square: [Test 2](https://github.com/giannagalard/CSC-Courses/tree/main/Introduction%20to%20Web%20Development/Test%202)
+
+## <img src= https://img.shields.io/badge/html-%20-9cf> <img src=https://img.shields.io/badge/css-%20-9cf> <img src=https://img.shields.io/badge/php-%20-9cf> 𝚆𝚎𝚋 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 | 𝙲𝚂𝙲 𝟸𝟸𝟼
+
+:white_small_square: [Lab 1](https://github.com/giannagalard/CSC-Courses/tree/main/Web%20Database%20Applications/Lab%201)  
+:white_small_square: [Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Web%20Database%20Applications/Lab%202)  
+:white_small_square: [Final Project - Weather App](https://github.com/giannagalard/CSC-Courses/tree/main/Web%20Database%20Applications/Final%20Project)
 
 ## <img src= https://img.shields.io/badge/mysql-%20-9cf> 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 | 𝙲𝚂𝙲 𝟹𝟷𝟻
 
@@ -115,6 +94,14 @@
 :white_small_square: [Lab 11 - Sequence Detector](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%2011)  
 :white_small_square: [Lab 12 - Wheel of Fortune](https://github.com/giannagalard/CSC-Courses/tree/main/Digital%20Circuits/lab%2012)
 
+## <img src= https://img.shields.io/badge/c%2B%2B-%20-9cf> 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 𝚘𝚏 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜 | 𝙲𝚂𝙲 𝟹𝟾𝟸
+
+:white_small_square: [Lab 1](https://github.com/giannagalard/CSC-Courses/tree/main/Analysis%20of%20Algorithms/Lab%201)  
+:white_small_square: [Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Analysis%20of%20Algorithms/Lab%202)  
+:white_small_square: [Lab 3](https://github.com/giannagalard/CSC-Courses/tree/main/Analysis%20of%20Algorithms/Lab%203)  
+:white_small_square: [Lab 4](https://github.com/giannagalard/CSC-Courses/tree/main/Analysis%20of%20Algorithms/Lab%204)  
+:white_small_square: [Lab 5](https://github.com/giannagalard/CSC-Courses/tree/main/Analysis%20of%20Algorithms/Lab%205)
+
 ## <img src = https://img.shields.io/badge/python-%20-9cf> 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟺𝟷𝟸
 
 :white_small_square: [Hw 1 - Num to Add](https://github.com/giannagalard/CSC-Courses/tree/main/Machine%20Learning/hw%201)  
@@ -122,12 +109,25 @@
 :white_small_square: [Hw 3 - Midterm Review](https://github.com/giannagalard/CSC-Courses/tree/main/Machine%20Learning/hw%203)  
 :white_small_square: [Group Project - Data Cleaning](https://github.com/giannagalard/CSC-Courses/tree/main/Machine%20Learning/data-cleaning)
 
+## <img src= https://img.shields.io/badge/c%23-%20-9cf> <img src=https://img.shields.io/badge/js-%20-9cf> <img src=https://img.shields.io/badge/react-%20-9cf> <img src=https://img.shields.io/badge/html-%20-9cf> <img src=https://img.shields.io/badge/css-%20-9cf> 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟺𝟹𝟶
+
+:white_small_square: [Lab 2](https://github.com/giannagalard/CSC-Courses/tree/main/Software%20Engineering/Lab%202)  
+:white_small_square: [Lab 3](https://github.com/giannagalard/CSC-Courses/tree/main/Software%20Engineering/Lab%203)  
+:white_small_square: [Lab 4](https://github.com/giannagalard/CSC-Courses/tree/main/Software%20Engineering/Lab%204)  
+:white_small_square: [Lab 5](https://github.com/giannagalard/CSC-Courses/tree/main/Software%20Engineering/Lab%205)  
+:white_small_square: [Final Project - Elden Ring Cuisine](https://github.com/giannagalard/CSC-Courses/tree/main/Software%20Engineering/Final%20Project)
+
 ## <img src= https://img.shields.io/badge/LEGv8-%20-9cf> 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙰𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 | 𝙲𝚂𝙲 𝟺𝟺𝟼
 
 :white_small_square: [HW 1](https://github.com/giannagalard/CSC-Courses/blob/main/Computer%20Architecture/hw%201/Homework1.pdf)  
 :white_small_square: [HW 2](https://github.com/giannagalard/CSC-Courses/tree/main/Computer%20Architecture/hw%202/Homework2.pdf)  
 :white_small_square: [HW 3](https://github.com/giannagalard/CSC-Courses/tree/main/Computer%20Architecture/hw%203/Homework3.pdf)  
 :white_small_square: [HW 4](https://github.com/giannagalard/CSC-Courses/tree/main/Computer%20Architecture/hw%204/Homework4.pdf)
+
+## <img src= https://img.shields.io/badge/python-%20-9cf> 𝙰𝚛𝚝𝚒𝚏𝚒𝚌𝚒𝚊𝚕 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎 | 𝙲𝚂𝙲 𝟺𝟾𝟶
+
+:white_small_square: [What A Rush !](https://github.com/giannagalard/CSC-Courses/blob/main/Artificial%20Intelligence/What%20a%20Rush/What%20A%20Rush%20!.pdf)  
+:white_small_square: [AlphaFold](https://github.com/giannagalard/CSC-Courses/blob/main/Artificial%20Intelligence/Final%20Project/AlphaFold.pdf)
 
 ## <img src= https://img.shields.io/badge/c%2B%2B%20-%20-9cf> 𝙸𝚗𝚝𝚎𝚛𝚟𝚒𝚎𝚠 𝙿𝚛𝚎𝚙 𝙲𝚘𝚞𝚛𝚜𝚎 | 𝙲𝚂𝙲 𝟻𝟿𝟷
 
