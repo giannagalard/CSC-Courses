@@ -15,7 +15,8 @@
 
 ## 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙷𝚊𝚌𝚔𝚒𝚗𝚐 𝚁𝚎𝚟𝚎𝚊𝚕𝚎𝚍 | 𝙲𝚂𝙲 𝟸𝟸𝟹
 
-:white_small_square: [CSRF -> Cross-Site Request Forgery Attack](https://github.com/giannagalard/CSC-Courses/tree/main/Computer%20Hacking%20Revealed/Cross%20Site%20Request%20Forgery%20Attack)
+:white_small_square: [CSRF -> Cross-Site Request Forgery Attack](https://github.com/giannagalard/CSC-Courses/tree/main/Computer%20Hacking%20Revealed/Cross%20Site%20Request%20Forgery%20Attack) . 
+:white_small_square: [XSS -> Cross-Site Scripting Attack](https://github.com/giannagalard/CSC-Courses/tree/main/Computer%20Hacking%20Revealed/Cross%20Site%20Scripting%20Attack)
 
 # 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 🖥️
 
